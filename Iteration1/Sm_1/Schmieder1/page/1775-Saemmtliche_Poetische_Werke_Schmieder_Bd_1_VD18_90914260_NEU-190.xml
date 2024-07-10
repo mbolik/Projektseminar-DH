@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-06-17T12:21:46.781+02:00</Created>
+        <LastChange>2024-06-25T20:09:51.024+02:00</LastChange>
+        <TranskribusMetadata docId="2860623" pageId="72921683" pageNr="14" tsid="174151889" status="IN_PROGRESS" userId="28956" imgUrl="https://files.transkribus.eu/Get?id=NISAADMVUZHJOICCHHLIROHN&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KIKHVCHZSBBBFCLAFXXDWZAP" imageId="58836755"/>
+    </Metadata>
+    <Page imageFilename="1775-Saemmtliche_Poetische_Werke_Schmieder_Bd_1_VD18_90914260_NEU-190.png" imageWidth="658" imageHeight="1096">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1720551284011" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1719337968666_1166"/>
+                <RegionRefIndexed index="1" regionRef="region_1719337981632_1169"/>
+                <RegionRefIndexed index="2" regionRef="region_1719338003018_1172"/>
+                <RegionRefIndexed index="4" regionRef="region_1719338153590_1185"/>
+                <RegionRefIndexed index="5" regionRef="TextRegion_1719338291090_1201"/>
+                <RegionRefIndexed index="6" regionRef="TextRegion_1719338291090_1200"/>
+                <RegionRefIndexed index="8" regionRef="region_1719338376294_1211"/>
+                <RegionRefIndexed index="9" regionRef="region_1719338417133_1214"/>
+                <RegionRefIndexed index="10" regionRef="TextRegion_1719338548430_1234"/>
+                <RegionRefIndexed index="11" regionRef="TextRegion_1719338548430_1235"/>
+                <RegionRefIndexed index="12" regionRef="region_1719338470628_1220"/>
+                <RegionRefIndexed index="13" regionRef="region_1719338503295_1225"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations>
+            <Relation type="link">
+                <RegionRef regionRef="TextRegion_1719338291090_1201"/>
+                <RegionRef regionRef="TextRegion_1719338291090_1200"/>
+            </Relation>
+            <Relation type="link">
+                <RegionRef regionRef="TextRegion_1719338548430_1234"/>
+                <RegionRef regionRef="TextRegion_1719338548430_1235"/>
+            </Relation>
+        </Relations>
+        <TextRegion type="page-number" id="region_1719337968666_1166" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="125,93 127,123 179,119 177,91"/>
+        </TextRegion>
+        <TextRegion type="header" id="region_1719337981632_1169" custom="readingOrder {index:1;} structure {type:header;}">
+            <Coords points="214,118 216,86 520,91 518,121"/>
+        </TextRegion>
+        <TextRegion id="region_1719338003018_1172" custom="readingOrder {index:2;} structure {type:poem_lg;}">
+            <Coords points="139,264 144,131 507,131 504,157 591,166 590,217 482,228 468,268"/>
+        </TextRegion>
+        <SeparatorRegion id="Separator_1719338044433_1175" custom="readingOrder {index:3;}">
+            <Coords points="133,280 134,266 294,271 449,271 488,270 589,268 589,283 547,280 483,278 401,277 354,278 207,277 157,281"/>
+        </SeparatorRegion>
+        <TextRegion type="heading" id="region_1719338153590_1185" custom="readingOrder {index:4;} structure {type:heading;}">
+            <Coords points="190,315 194,284 205,282 221,283 226,286 247,286 259,283 275,283 289,285 348,285 358,282 369,282 375,285 404,279 423,280 431,285 477,281 506,284 515,282 533,283 524,322 466,324 410,324 327,320 205,322"/>
+        </TextRegion>
+        <TextRegion type="drop-capital" id="TextRegion_1719338291090_1201" custom="readingOrder {index:5;} structure {type:drop-capital;}">
+            <Coords points="126,326 147,319 173,317 179,321 173,336 173,341 181,347 180,356 175,371 141,370 124,367"/>
+        </TextRegion>
+        <TextRegion id="TextRegion_1719338291090_1200" custom="readingOrder {index:6;} structure {type:poem_lg;}">
+            <Coords points="179,321 185,325 216,323 229,324 234,326 249,325 275,324 286,326 325,325 347,326 394,326 413,328 429,326 437,328 464,327 602,324 579,539 323,538 183,537 138,536 120,532 124,367 141,370 175,371 180,356 181,347 173,341 173,336"/>
+        </TextRegion>
+        <SeparatorRegion id="Separator_1719338692669_1256" custom="readingOrder {index:7;}">
+            <Coords points="132,548 132,537 140,538 170,540 212,539 250,540 284,540 318,540 342,540 381,541 413,541 452,540 479,542 509,541 551,542 588,542 587,552 538,551 498,549 475,549 457,548 433,549 398,548 352,549 311,549 294,547 266,547 227,548 197,547 176,547"/>
+        </SeparatorRegion>
+        <TextRegion type="heading" id="region_1719338376294_1211" custom="readingOrder {index:8;} structure {type:heading;}">
+            <Coords points="179,591 179,550 248,554 270,555 281,550 292,549 295,555 361,555 379,551 412,553 442,555 450,552 468,551 498,552 539,558 536,596 481,590 448,591 296,591 263,587"/>
+        </TextRegion>
+        <TextRegion id="region_1719338417133_1214" custom="readingOrder {index:9;} structure {type:poem_lg;}">
+            <Coords points="265,616 267,592 281,592 288,597 315,597 326,594 334,594 340,597 458,597 471,594 504,597 512,625 498,647 577,657 576,687 310,686 303,661 186,655 197,617"/>
+        </TextRegion>
+        <TextRegion type="drop-capital" id="TextRegion_1719338548430_1234" custom="readingOrder {index:10;} structure {type:drop-capital;}">
+            <Coords points="129,686 170,685 171,700 181,716 175,736 125,736"/>
+        </TextRegion>
+        <TextRegion id="TextRegion_1719338548430_1235" custom="readingOrder {index:11;} structure {type:poem_lg;}">
+            <Coords points="175,684 300,684 306,691 346,691 353,690 368,689 404,689 440,693 538,690 551,689 594,692 600,848 119,849 125,736 175,736 181,716 173,698"/>
+        </TextRegion>
+        <TextRegion type="catch-word" id="region_1719338470628_1220" custom="readingOrder {index:12;} structure {type:catch-word;}">
+            <Coords points="561,851 591,850 587,872 557,874"/>
+        </TextRegion>
+        <TextRegion type="footnote" id="region_1719338503295_1225" custom="readingOrder {index:13;} structure {type:footnote;}">
+            <Coords points="594,877 592,985 343,979 141,973 151,869 545,878"/>
+        </TextRegion>
+    </Page>
+</PcGts>

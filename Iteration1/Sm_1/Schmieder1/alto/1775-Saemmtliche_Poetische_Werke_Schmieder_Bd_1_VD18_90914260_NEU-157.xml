@@ -1,0 +1,552 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xmlns:map="http://www.w3.org/2005/xpath-functions/map"
+      xmlns:local="local"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <sourceImageInformation>
+         <fileName>1775-Saemmtliche_Poetische_Werke_Schmieder_Bd_1_VD18_90914260_NEU-157.png</fileName>
+      </sourceImageInformation>
+      <Processing ID="IdOcr">
+         <processingDateTime>2024-07-09T20:54:42.035+02:00</processingDateTime>
+         <processingSoftware>
+            <softwareCreator>READ COOP</softwareCreator>
+            <softwareName>Transkribus</softwareName>
+         </processingSoftware>
+      </Processing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="9" HEIGHT="1096" WIDTH="658">
+         <TopMargin HEIGHT="0" WIDTH="658" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="1096" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="1096" WIDTH="0" VPOS="0" HPOS="658"/>
+         <BottomMargin HEIGHT="0" WIDTH="658" VPOS="1096" HPOS="0"/>
+         <PrintSpace HEIGHT="1096" WIDTH="658" VPOS="0" HPOS="0">
+            <TextBlock ID="region_1718622326938_305"
+                       HEIGHT="38"
+                       WIDTH="226"
+                       VPOS="75"
+                       HPOS="158">
+               <Shape>
+                  <Polygon POINTS="158,113 383,105 384,75 162,78"/>
+               </Shape>
+               <TextLine ID="region_1718622326938_305_tl_1"
+                         BASELINE="160,105 172,104 188,103 205,103 221,102 238,102 254,100 270,99 287,98 303,98 320,98 336,98 353,98 369,98 383,99"
+                         HEIGHT="57"
+                         WIDTH="223"
+                         VPOS="53"
+                         HPOS="160">
+                  <String ID="string_region_1718622326938_305_tl_1"
+                          HEIGHT="57"
+                          WIDTH="223"
+                          VPOS="53"
+                          HPOS="160"
+                          CONTENT="Moralische Gedichte"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="region_1718622320483_302"
+                       HEIGHT="34"
+                       WIDTH="50"
+                       VPOS="70"
+                       HPOS="475">
+               <Shape>
+                  <Polygon POINTS="475,104 525,104 525,70 475,70"/>
+               </Shape>
+               <TextLine ID="region_1718622320483_302_tl_1"
+                         BASELINE="475,93 491,94 507,95 517,95"
+                         HEIGHT="52"
+                         WIDTH="42"
+                         VPOS="48"
+                         HPOS="475">
+                  <String ID="string_region_1718622320483_302_tl_1"
+                          HEIGHT="52"
+                          WIDTH="42"
+                          VPOS="48"
+                          HPOS="475"
+                          CONTENT="117"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="region_1718622338018_308"
+                       HEIGHT="510"
+                       WIDTH="479"
+                       VPOS="111"
+                       HPOS="58">
+               <Shape>
+                  <Polygon POINTS="537,595 427,611 370,617 339,598 66,621 58,122 537,111"/>
+               </Shape>
+               <TextLine ID="region_1718622338018_308_tl_1"
+                         BASELINE="71,150 76,150 93,145 109,144 129,148 144,147 159,145 175,145 191,144 208,144 224,143 241,142 257,141 274,141 290,141 307,140 323,139 340,139 356,138 373,137 389,138 405,137 422,136 438,136 455,134 471,133 488,132 504,132 521,130"
+                         HEIGHT="70"
+                         WIDTH="450"
+                         VPOS="85"
+                         HPOS="71">
+                  <String ID="string_region_1718622338018_308_tl_1"
+                          HEIGHT="70"
+                          WIDTH="450"
+                          VPOS="85"
+                          HPOS="71"
+                          CONTENT="„ 41 Verhoͤhnen ſie ſo ſehr der Juden Glaubens-"/>
+               </TextLine>
+               <TextLine ID="region_1718622338018_308_tl_2"
+                         BASELINE="351,166 367,164 383,164 400,164 416,164"
+                         HEIGHT="52"
+                         WIDTH="65"
+                         VPOS="119"
+                         HPOS="351">
+                  <String ID="string_region_1718622338018_308_tl_2"
+                          HEIGHT="52"
+                          WIDTH="65"
+                          VPOS="119"
+                          HPOS="351"
+                          CONTENT="zeichen,"/>
+               </TextLine>
+               <TextLine ID="region_1718622338018_308_tl_3"
+                         BASELINE="71,206 80,204 96,202 113,201 129,201 145,200 162,200 178,199 195,198 211,197 228,197 244,197 261,196 277,195 294,194 310,194 326,194 343,193 359,193 376,190 392,190 409,189 425,189 442,188 458,188 475,187 491,186 507,186 524,184"
+                         HEIGHT="72"
+                         WIDTH="453"
+                         VPOS="139"
+                         HPOS="71">
+                  <String ID="string_region_1718622338018_308_tl_3"
+                          HEIGHT="72"
+                          WIDTH="453"
+                          VPOS="139"
+                          HPOS="71"
+                          CONTENT="„Die, dem Gewiſſen nach, ſo vielen Chriſten "/>
+               </TextLine>
+               <TextLine ID="region_1718622338018_308_tl_4"
+                         BASELINE="352,221 357,220 374,218 390,216 407,216 423,215 439,215"
+                         HEIGHT="56"
+                         WIDTH="87"
+                         VPOS="170"
+                         HPOS="352">
+                  <String ID="string_region_1718622338018_308_tl_4"
+                          HEIGHT="56"
+                          WIDTH="87"
+                          VPOS="170"
+                          HPOS="352"
+                          CONTENT="gleichen?"/>
+               </TextLine>
+               <TextLine ID="region_1718622338018_308_tl_5"
+                         BASELINE="73,257 80,258 96,255 113,255 129,255 145,254 162,253 178,252 195,251 211,251 228,250 244,250 261,249 277,249 294,246 310,246 326,245 343,245 359,245 376,244 392,244 409,243 425,243 442,242 458,242 475,242 491,241 507,241 524,242"
+                         HEIGHT="67"
+                         WIDTH="451"
+                         VPOS="196"
+                         HPOS="73">
+                  <String ID="string_region_1718622338018_308_tl_5"
+                          HEIGHT="67"
+                          WIDTH="451"
+                          VPOS="196"
+                          HPOS="73"
+                          CONTENT="„ Entſchuldigen Sie mich: ich ſprech ein andermal. „"/>
+               </TextLine>
+               <TextLine ID="region_1718622338018_308_tl_6"
+                         BASELINE="86,295 99,295 116,295 132,295 149,294 165,292 182,292 198,291 215,290 231,290 247,289 264,288 280,288 297,288 313,287 330,286 346,284 363,283 379,281 396,283 412,283 428,281 445,281 461,281 478,281 494,280 511,279 527,278"
+                         HEIGHT="67"
+                         WIDTH="441"
+                         VPOS="233"
+                         HPOS="86">
+                  <String ID="string_region_1718622338018_308_tl_6"
+                          HEIGHT="67"
+                          WIDTH="441"
+                          VPOS="233"
+                          HPOS="86"
+                          CONTENT="O ſchwarzer Ungluͤckstag, was bringſt du mir fuͤr"/>
+               </TextLine>
+               <TextLine ID="region_1718622338018_308_tl_7"
+                         BASELINE="357,311 369,309 386,308 402,308 419,309"
+                         HEIGHT="53"
+                         WIDTH="62"
+                         VPOS="263"
+                         HPOS="357">
+                  <String ID="string_region_1718622338018_308_tl_7"
+                          HEIGHT="53"
+                          WIDTH="62"
+                          VPOS="263"
+                          HPOS="357"
+                          CONTENT="Qual!"/>
+               </TextLine>
+               <TextLine ID="region_1718622338018_308_tl_8"
+                         BASELINE="72,343 84,344 100,345 117,346 133,347 150,346 166,346 183,345 199,345 216,344 232,344 249,344 265,343 281,343 298,342 314,341 331,339 347,336 364,336 380,336 397,336 413,336 430,335 446,335 462,335 479,334 495,333 512,333 528,331"
+                         HEIGHT="66"
+                         WIDTH="456"
+                         VPOS="286"
+                         HPOS="72">
+                  <String ID="string_region_1718622338018_308_tl_8"
+                          HEIGHT="66"
+                          WIDTH="456"
+                          VPOS="286"
+                          HPOS="72"
+                          CONTENT="42 Der Unbarmherzige, der Spoͤtter, geht, und"/>
+               </TextLine>
+               <TextLine ID="region_1718622338018_308_tl_9"
+                         BASELINE="358,366 367,364 383,364 400,363 416,363"
+                         HEIGHT="53"
+                         WIDTH="58"
+                         VPOS="318"
+                         HPOS="358">
+                  <String ID="string_region_1718622338018_308_tl_9"
+                          HEIGHT="53"
+                          WIDTH="58"
+                          VPOS="318"
+                          HPOS="358"
+                          CONTENT="ſiehet,"/>
+               </TextLine>
+               <TextLine ID="line_1718648540892_280"
+                         BASELINE="72,401 82,401 98,401 115,401 131,401 148,400 164,400 181,399 197,398 213,397 230,397 246,396 263,394 279,394 296,394 312,392 329,393 345,392 362,391 373,390 377,390 393,389 410,389 426,388 443,387 459,386 476,386 492,386"
+                         HEIGHT="65"
+                         WIDTH="420"
+                         VPOS="341"
+                         HPOS="72">
+                  <String ID="string_line_1718648540892_280"
+                          HEIGHT="65"
+                          WIDTH="420"
+                          VPOS="341"
+                          HPOS="72"
+                          CONTENT="Obgleich er uͤber mir das große Meſſer ſiehet,"/>
+               </TextLine>
+               <TextLine ID="line_1718648534045_275"
+                         BASELINE="75,428 89,428 106,427 122,427 139,427 155,427 172,426 188,426 205,425 221,424 238,423 254,423 270,422 287,422 303,421 320,420 373,416 380,416 397,414 413,415 430,414 446,412 462,412 479,412 495,412 512,412 528,412"
+                         HEIGHT="66"
+                         WIDTH="453"
+                         VPOS="367"
+                         HPOS="75">
+                  <String ID="string_line_1718648534045_275"
+                          HEIGHT="66"
+                          WIDTH="453"
+                          VPOS="367"
+                          HPOS="75"
+                          CONTENT="Mit dem der Prahler ficht. 43 Allein, wer zeigt"/>
+               </TextLine>
+               <TextLine ID="region_1718622338018_308_tl_14"
+                         BASELINE="367,443 371,443 388,443 404,442 421,441 437,439 454,441"
+                         HEIGHT="54"
+                         WIDTH="87"
+                         VPOS="394"
+                         HPOS="367">
+                  <String ID="string_region_1718622338018_308_tl_14"
+                          HEIGHT="54"
+                          WIDTH="87"
+                          VPOS="394"
+                          HPOS="367"
+                          CONTENT="ſich dort?"/>
+               </TextLine>
+               <TextLine ID="line_1718648520305_270"
+                         BASELINE="74,482 87,481 104,481 120,481 137,480 153,480 170,479 186,478 202,477 219,477 235,476 252,476 268,475 285,475 301,473 318,472 334,472 351,470 367,471 378,471 380,471 397,469 413,468 430,467 446,467 462,467 479,466 495,465 512,465 528,464"
+                         HEIGHT="68"
+                         WIDTH="454"
+                         VPOS="419"
+                         HPOS="74">
+                  <String ID="string_line_1718648520305_270"
+                          HEIGHT="68"
+                          WIDTH="454"
+                          VPOS="419"
+                          HPOS="74"
+                          CONTENT="Sein Gegner koͤmmt, und ſchreyt: „Wohin, Nichts-"/>
+               </TextLine>
+               <TextLine ID="region_1718622338018_308_tl_17"
+                         BASELINE="356,499 366,496 382,496 399,496 415,496 432,496 448,495 465,494 481,493 498,494 514,493"
+                         HEIGHT="56"
+                         WIDTH="158"
+                         VPOS="448"
+                         HPOS="356">
+                  <String ID="string_region_1718622338018_308_tl_17"
+                          HEIGHT="56"
+                          WIDTH="158"
+                          VPOS="448"
+                          HPOS="356"
+                          CONTENT="wuͤrdger? Fort!„"/>
+               </TextLine>
+               <TextLine ID="line_1718648548580_284"
+                         BASELINE="74,534 85,535 102,535 118,534 134,534 151,533 167,533 184,532 200,532 217,532 233,532 250,530 266,529 283,529 299,528 315,526 332,525 348,524 363,526 367,526 383,524 400,524 416,523 433,523 449,523 466,523 482,523 499,522 515,521 532,517"
+                         HEIGHT="68"
+                         WIDTH="458"
+                         VPOS="472"
+                         HPOS="74">
+                  <String ID="string_line_1718648548580_284"
+                          HEIGHT="68"
+                          WIDTH="458"
+                          VPOS="472"
+                          HPOS="74"
+                          CONTENT="Und ſagt im Scherz zu mir: 44 „Dürft ich Sie zey-"/>
+               </TextLine>
+               <TextLine ID="region_1718622338018_308_tl_20"
+                         BASELINE="359,556 364,554 380,552 397,551 413,551 430,549 446,549 462,549 479,550"
+                         HEIGHT="57"
+                         WIDTH="120"
+                         VPOS="504"
+                         HPOS="359">
+                  <String ID="string_region_1718622338018_308_tl_20"
+                          HEIGHT="57"
+                          WIDTH="120"
+                          VPOS="504"
+                          HPOS="359"
+                          CONTENT="gen laſſen!„"/>
+               </TextLine>
+               <TextLine ID="region_1718622338018_308_tl_21"
+                         BASELINE="76,589 91,590 107,589 123,589 140,589 156,589 173,588 189,586 206,586 222,585 239,585 255,584 272,584 288,583 304,582 321,581 337,581 354,580 370,580 387,579 403,579 420,577 436,577 453,577 469,575 486,574 502,574 518,575 535,577"
+                         HEIGHT="66"
+                         WIDTH="459"
+                         VPOS="529"
+                         HPOS="76">
+                  <String ID="string_region_1718622338018_308_tl_21"
+                          HEIGHT="66"
+                          WIDTH="459"
+                          VPOS="529"
+                          HPOS="76"
+                          CONTENT="Ja! muͤſſt auch Jhre Hand mein Ohr, auf roͤmiſch,"/>
+               </TextLine>
+               <TextLine ID="region_1718622338018_308_tl_22"
+                         BASELINE="369,608 375,607 391,606 408,606 424,605"
+                         HEIGHT="53"
+                         WIDTH="55"
+                         VPOS="560"
+                         HPOS="369">
+                  <String ID="string_region_1718622338018_308_tl_22"
+                          HEIGHT="53"
+                          WIDTH="55"
+                          VPOS="560"
+                          HPOS="369"
+                          CONTENT="faſſen."/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="region_1718622342450_311"
+                       HEIGHT="26"
+                       WIDTH="48"
+                       VPOS="615"
+                       HPOS="304">
+               <Shape>
+                  <Polygon POINTS="305,641 352,641 349,618 304,615"/>
+               </Shape>
+               <TextLine ID="region_1718622342450_311_tl_1"
+                         BASELINE="307,638 323,637 340,638 351,638"
+                         HEIGHT="51"
+                         WIDTH="44"
+                         VPOS="592"
+                         HPOS="307">
+                  <String ID="string_region_1718622342450_311_tl_1"
+                          HEIGHT="51"
+                          WIDTH="44"
+                          VPOS="592"
+                          HPOS="307"
+                          CONTENT="H3"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="region_1718622345018_314"
+                       HEIGHT="28"
+                       WIDTH="40"
+                       VPOS="606"
+                       HPOS="500">
+               <Shape>
+                  <Polygon POINTS="500,634 540,634 540,606 500,606"/>
+               </Shape>
+               <TextLine ID="region_1718622345018_314_tl_1"
+                         BASELINE="507,626 524,626 534,626"
+                         HEIGHT="50"
+                         WIDTH="27"
+                         VPOS="581"
+                         HPOS="507">
+                  <String ID="string_region_1718622345018_314_tl_1"
+                          HEIGHT="50"
+                          WIDTH="27"
+                          VPOS="581"
+                          HPOS="507"
+                          CONTENT="Er"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="region_1718622375162_329"
+                       HEIGHT="310"
+                       WIDTH="518"
+                       VPOS="643"
+                       HPOS="49">
+               <Shape>
+                  <Polygon POINTS="567,924 49,953 53,653 547,643"/>
+               </Shape>
+            </TextBlock>
+            <TextBlock ID="region_1718622353698_317"
+                       HEIGHT="181"
+                       WIDTH="455"
+                       VPOS="648"
+                       HPOS="96">
+               <Shape>
+                  <Polygon POINTS="99,829 551,812 544,648 96,667"/>
+               </Shape>
+               <TextLine ID="region_1718622353698_317_tl_1"
+                         BASELINE="97,687 109,686 126,687 142,686 159,685 175,685 191,685 208,685 224,684 241,683 257,682 274,682 290,681 307,681 323,679 340,678 356,678 373,676 389,675 405,674 422,673 438,672 455,671 471,671 488,670 504,670 521,670 537,670"
+                         HEIGHT="67"
+                         WIDTH="440"
+                         VPOS="625"
+                         HPOS="97">
+                  <String ID="string_region_1718622353698_317_tl_1"
+                          HEIGHT="67"
+                          WIDTH="440"
+                          VPOS="625"
+                          HPOS="97"
+                          CONTENT="Multorum: ignoſces, alias loquar. Hunccine ſolem"/>
+               </TextLine>
+               <TextLine ID="region_1718622353698_317_tl_2"
+                         BASELINE="100,713 108,714 125,714 141,714 157,713 174,713 190,713 207,712 223,710 240,709 256,708 273,708 289,708 306,707 322,707 339,706 355,706 371,704 388,703 404,702 421,702 437,699 454,699 470,698 487,698 503,698 520,699 536,699"
+                         HEIGHT="66"
+                         WIDTH="436"
+                         VPOS="653"
+                         HPOS="100">
+                  <String ID="string_region_1718622353698_317_tl_2"
+                          HEIGHT="66"
+                          WIDTH="436"
+                          VPOS="653"
+                          HPOS="100"
+                          CONTENT="Tam nigrum ſurrexe mihi? 42 Fugit improbus,"/>
+               </TextLine>
+               <TextLine ID="region_1718622353698_317_tl_3"
+                         BASELINE="400,728 414,727 431,727 447,726 464,725"
+                         HEIGHT="53"
+                         WIDTH="64"
+                         VPOS="680"
+                         HPOS="400">
+                  <String ID="string_region_1718622353698_317_tl_3"
+                          HEIGHT="53"
+                          WIDTH="64"
+                          VPOS="680"
+                          HPOS="400"
+                          CONTENT="ac me."/>
+               </TextLine>
+               <TextLine ID="region_1718622353698_317_tl_4"
+                         BASELINE="100,766 111,766 128,767 144,766 161,766 177,766 194,765 210,764 227,764 243,763 260,763 276,762 292,762 309,761 325,759 342,758 358,755 375,755 391,755 408,753 424,753 441,753 457,753 473,753 490,753 506,751"
+                         HEIGHT="66"
+                         WIDTH="406"
+                         VPOS="706"
+                         HPOS="100">
+                  <String ID="string_region_1718622353698_317_tl_4"
+                          HEIGHT="66"
+                          WIDTH="406"
+                          VPOS="706"
+                          HPOS="100"
+                          CONTENT="Sub cultro linquit. 43 Caſu venit obvius illi"/>
+               </TextLine>
+               <TextLine ID="region_1718622353698_317_tl_5"
+                         BASELINE="98,793 99,793 116,793 132,793 149,793 165,793 182,794 198,793 215,792 231,792 247,791 264,789 280,788 297,787 313,787 330,786 346,785 363,783 379,783 396,782 412,782 428,781 445,781 461,781 478,780 494,780"
+                         HEIGHT="64"
+                         WIDTH="396"
+                         VPOS="735"
+                         HPOS="98">
+                  <String ID="string_region_1718622353698_317_tl_5"
+                          HEIGHT="64"
+                          WIDTH="396"
+                          VPOS="735"
+                          HPOS="98"
+                          CONTENT="Adverſarius, &amp; Quo tu, turpiſſime? magna"/>
+               </TextLine>
+               <TextLine ID="region_1718622353698_317_tl_6"
+                         BASELINE="100,820 108,820 125,821 141,821 157,821 174,821 190,820 207,820 223,819 240,819 256,819 273,818 289,817 306,816 322,815 339,812 355,812 371,811 388,810 404,809 421,808 437,808 454,807 470,807 487,807 503,806 520,805 536,806"
+                         HEIGHT="66"
+                         WIDTH="436"
+                         VPOS="760"
+                         HPOS="100">
+                  <String ID="string_region_1718622353698_317_tl_6"
+                          HEIGHT="66"
+                          WIDTH="436"
+                          VPOS="760"
+                          HPOS="100"
+                          CONTENT="Inclamat voce, &amp; 44 Licet anteſtari? Ego vero"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="region_1718622356514_320"
+                       HEIGHT="25"
+                       WIDTH="63"
+                       VPOS="817"
+                       HPOS="479">
+               <Shape>
+                  <Polygon POINTS="484,842 537,840 542,818 479,817"/>
+               </Shape>
+               <TextLine ID="region_1718622356514_320_tl_1"
+                         BASELINE="483,834 486,834 502,837 518,834 535,831"
+                         HEIGHT="56"
+                         WIDTH="52"
+                         VPOS="786"
+                         HPOS="483">
+                  <String ID="string_region_1718622356514_320_tl_1"
+                          HEIGHT="56"
+                          WIDTH="52"
+                          VPOS="786"
+                          HPOS="483"
+                          CONTENT="Oppo-"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="region_1718622362291_323"
+                       HEIGHT="96"
+                       WIDTH="456"
+                       VPOS="852"
+                       HPOS="94">
+               <Shape>
+                  <Polygon POINTS="94,948 549,922 550,852 96,863"/>
+               </Shape>
+               <TextLine ID="region_1718622362291_323_tl_1"
+                         BASELINE="100,884 116,884 132,885 149,885 165,885 182,885 198,885 215,884 231,883 247,882 264,880 280,879 297,879 313,878 330,878 346,877 363,876 379,875 396,875 412,874 428,874 445,873 461,873 478,873 494,872 511,872 527,871 544,869"
+                         HEIGHT="66"
+                         WIDTH="444"
+                         VPOS="824"
+                         HPOS="100">
+                  <String ID="string_region_1718622362291_323_tl_1"
+                          HEIGHT="66"
+                          WIDTH="444"
+                          VPOS="824"
+                          HPOS="100"
+                          CONTENT="thum geben, und dieſes Feſt ward, vor allen andern, an"/>
+               </TextLine>
+               <TextLine ID="region_1718622362291_323_tl_2"
+                         BASELINE="99,907 116,908 132,908 149,908 165,909 182,909 198,908 215,907 231,907 247,906 264,905 280,904 297,902 313,902 330,901 346,900 363,900 379,899 396,899 412,897 428,898 445,897 461,896 478,896 494,895 511,895 527,895 544,894"
+                         HEIGHT="65"
+                         WIDTH="445"
+                         VPOS="849"
+                         HPOS="99">
+                  <String ID="string_region_1718622362291_323_tl_2"
+                          HEIGHT="65"
+                          WIDTH="445"
+                          VPOS="849"
+                          HPOS="99"
+                          CONTENT="den Orten, der Verſammlung, mit Fackeln und Lampen"/>
+               </TextLine>
+               <TextLine ID="region_1718622362291_323_tl_3"
+                         BASELINE="102,932 110,932 127,932 143,933 160,934 176,933 193,933 209,932 226,932 242,931 258,930 275,929 291,929 308,928 324,927 341,927 357,925 374,924 390,924 407,924 423,923 439,923 456,922 472,921 489,920 505,918 522,918 538,918"
+                         HEIGHT="66"
+                         WIDTH="436"
+                         VPOS="873"
+                         HPOS="102">
+                  <String ID="string_region_1718622362291_323_tl_3"
+                          HEIGHT="66"
+                          WIDTH="436"
+                          VPOS="873"
+                          HPOS="102"
+                          CONTENT="erhellet. Um ſo mehr mußte es in Rom hervorleuchten,"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="region_1718622364625_326"
+                       HEIGHT="22"
+                       WIDTH="37"
+                       VPOS="927"
+                       HPOS="504">
+               <Shape>
+                  <Polygon POINTS="506,948 540,949 541,927 504,927"/>
+               </Shape>
+               <TextLine ID="line_1718649825711_382"
+                         BASELINE=""
+                         HEIGHT="16"
+                         WIDTH="36"
+                         VPOS="929"
+                         HPOS="503">
+                  <String ID="string_line_1718649825711_382"
+                          HEIGHT="16"
+                          WIDTH="36"
+                          VPOS="929"
+                          HPOS="503"
+                          CONTENT="und"/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

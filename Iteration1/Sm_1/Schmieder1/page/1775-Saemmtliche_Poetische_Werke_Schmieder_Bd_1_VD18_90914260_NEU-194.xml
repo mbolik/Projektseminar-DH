@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-06-17T12:21:46.821+02:00</Created>
+        <LastChange>2024-06-25T20:17:35.635+02:00</LastChange>
+        <TranskribusMetadata docId="2860623" pageId="72922115" pageNr="15" tsid="174155869" status="IN_PROGRESS" userId="28956" imgUrl="https://files.transkribus.eu/Get?id=RRJWGATVIWIVRMQQGZKPZPXJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NCLOEQXMQSORQBWFMSDYOSNH" imageId="58836401"/>
+    </Metadata>
+    <Page imageFilename="1775-Saemmtliche_Poetische_Werke_Schmieder_Bd_1_VD18_90914260_NEU-194.png" imageWidth="658" imageHeight="1096">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1720551284401" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1719339136740_1289"/>
+                <RegionRefIndexed index="1" regionRef="region_1719339150451_1292"/>
+                <RegionRefIndexed index="2" regionRef="region_1719339181397_1295"/>
+                <RegionRefIndexed index="3" regionRef="region_1719339189491_1298"/>
+                <RegionRefIndexed index="4" regionRef="region_1719339214054_1301"/>
+                <RegionRefIndexed index="5" regionRef="region_1719339243798_1304"/>
+                <RegionRefIndexed index="6" regionRef="region_1719339294401_1309"/>
+                <RegionRefIndexed index="7" regionRef="region_1719339320877_1312"/>
+                <RegionRefIndexed index="8" regionRef="region_1719339336183_1315"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="page-number" id="region_1719339136740_1289" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="193,121 191,87 134,89 144,119"/>
+        </TextRegion>
+        <TextRegion type="heading" id="region_1719339150451_1292" custom="readingOrder {index:1;} structure {type:heading;}">
+            <Coords points="239,113 241,79 537,83 534,116 350,113 274,117"/>
+        </TextRegion>
+        <TextRegion id="region_1719339181397_1295" custom="readingOrder {index:2;} structure {type:poem_lg;}">
+            <Coords points="140,131 167,124 239,124 330,128 352,124 398,125 445,126 507,126 560,126 603,124 608,276 607,425 531,432 400,428 139,436"/>
+        </TextRegion>
+        <TextRegion type="catch-word" id="region_1719339189491_1298" custom="readingOrder {index:3;} structure {type:catch-word;}">
+            <Coords points="548,464 551,435 579,434 607,434 606,463"/>
+        </TextRegion>
+        <TextRegion type="footnote" id="region_1719339214054_1301" custom="readingOrder {index:4;} structure {type:footnote;}">
+            <Coords points="148,480 614,471 616,934 568,930 149,937 140,698 131,604"/>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1719339243798_1304" custom="readingOrder {index:5;} structure {type:paragraph;}">
+            <Coords points="163,487 227,486 244,484 483,483 605,486 606,724 425,732 168,733 153,708"/>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1719339294401_1309" custom="readingOrder {index:6;} structure {type:paragraph;}">
+            <Coords points="184,742 186,771 542,763 540,734 407,739 365,739 257,741 226,738"/>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1719339320877_1312" custom="readingOrder {index:7;} structure {type:paragraph;}">
+            <Coords points="162,781 162,930 326,926 407,926 413,929 429,929 443,927 503,927 605,922 607,774 252,777"/>
+        </TextRegion>
+        <TextRegion type="catch-word" id="region_1719339336183_1315" custom="readingOrder {index:8;} structure {type:catch-word;}">
+            <Coords points="559,956 562,936 579,935 603,939 611,950 603,962"/>
+        </TextRegion>
+    </Page>
+</PcGts>
