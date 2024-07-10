@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xmlns:map="http://www.w3.org/2005/xpath-functions/map"
+      xmlns:local="local"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <sourceImageInformation>
+         <fileName>1782,_Poetische_Werke,_Fleischhauer,_Bd._2,_VD18_89276873-001_Seite_029_Bild_0001.jpg</fileName>
+      </sourceImageInformation>
+      <Processing ID="IdOcr">
+         <processingDateTime>2024-07-09T20:48:54.671+02:00</processingDateTime>
+         <processingSoftware>
+            <softwareCreator>READ COOP</softwareCreator>
+            <softwareName>Transkribus</softwareName>
+         </processingSoftware>
+      </Processing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="2" HEIGHT="2040" WIDTH="1217">
+         <TopMargin HEIGHT="0" WIDTH="1217" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="2040" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="2040" WIDTH="0" VPOS="0" HPOS="1217"/>
+         <BottomMargin HEIGHT="0" WIDTH="1217" VPOS="2040" HPOS="0"/>
+         <PrintSpace HEIGHT="2040" WIDTH="1217" VPOS="0" HPOS="0">
+            <TextBlock ID="region_1719324022784_348"
+                       HEIGHT="56"
+                       WIDTH="81"
+                       VPOS="109"
+                       HPOS="177">
+               <Shape>
+                  <Polygon POINTS="177,165 258,165 258,109 177,109"/>
+               </Shape>
+            </TextBlock>
+            <TextBlock ID="region_1719324028001_351"
+                       HEIGHT="80"
+                       WIDTH="529"
+                       VPOS="100"
+                       HPOS="355">
+               <Shape>
+                  <Polygon POINTS="356,170 884,180 884,100 355,100"/>
+               </Shape>
+            </TextBlock>
+            <TextBlock ID="region_1719324083801_358"
+                       HEIGHT="1620"
+                       WIDTH="986"
+                       VPOS="185"
+                       HPOS="116">
+               <Shape>
+                  <Polygon POINTS="173,185 1102,194 1060,1772 909,1774 116,1805"/>
+               </Shape>
+            </TextBlock>
+            <TextBlock ID="region_1719324144162_366"
+                       HEIGHT="193"
+                       WIDTH="869"
+                       VPOS="203"
+                       HPOS="206">
+               <Shape>
+                  <Polygon POINTS="206,386 216,203 1075,222 1063,369 543,366 513,396"/>
+               </Shape>
+            </TextBlock>
+            <TextBlock ID="region_1719324154346_369"
+                       HEIGHT="67"
+                       WIDTH="859"
+                       VPOS="410"
+                       HPOS="177">
+               <Shape>
+                  <Polygon POINTS="177,460 181,410 1036,424 1034,477"/>
+               </Shape>
+            </TextBlock>
+            <TextBlock ID="region_1719324175234_372"
+                       HEIGHT="479"
+                       WIDTH="893"
+                       VPOS="481"
+                       HPOS="178">
+               <Shape>
+                  <Polygon POINTS="178,481 1056,489 1071,670 1055,935 200,960"/>
+               </Shape>
+            </TextBlock>
+            <TextBlock ID="region_1719324190857_375"
+                       HEIGHT="480"
+                       WIDTH="895"
+                       VPOS="985"
+                       HPOS="162">
+               <Shape>
+                  <Polygon POINTS="162,985 1057,987 1057,1429 688,1436 636,1465 168,1465"/>
+               </Shape>
+            </TextBlock>
+            <TextBlock ID="region_1719324211999_378"
+                       HEIGHT="296"
+                       WIDTH="886"
+                       VPOS="1481"
+                       HPOS="161">
+               <Shape>
+                  <Polygon POINTS="161,1481 1045,1497 1047,1743 688,1742 694,1772 513,1777 164,1775"/>
+               </Shape>
+            </TextBlock>
+            <TextBlock ID="region_1719324037163_354"
+                       HEIGHT="59"
+                       WIDTH="83"
+                       VPOS="1787"
+                       HPOS="973">
+               <Shape>
+                  <Polygon POINTS="973,1846 1056,1846 1056,1787 973,1787"/>
+               </Shape>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

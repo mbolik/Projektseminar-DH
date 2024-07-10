@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-06-24T14:19:22.331+02:00</Created>
+        <LastChange>2024-06-25T16:50:41.821+02:00</LastChange>
+        <TranskribusMetadata docId="2967543" pageId="73356157" pageNr="13" tsid="174053546" status="IN_PROGRESS" userId="28956" imgUrl="https://files.transkribus.eu/Get?id=XICZJJNOIHHQWABHYAWYKKLH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CQTAHOJVKNBCJQIDOCAVLMIG" imageId="59220079"/>
+    </Metadata>
+    <Page imageFilename="1782,_Poetische_Werke,_Fleischhauer,_Bd._2,_VD18_89276873-001_Seite_343_Bild_0001.jpg" imageWidth="1214" imageHeight="2058">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1720550937487" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1719326924883_838"/>
+                <RegionRefIndexed index="1" regionRef="region_1719326936052_841"/>
+                <RegionRefIndexed index="2" regionRef="region_1719326946547_844"/>
+                <RegionRefIndexed index="3" regionRef="region_1719326971086_847"/>
+                <RegionRefIndexed index="4" regionRef="region_1719326997310_851"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="page-number" id="region_1719326924883_838" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="204,174 199,111 320,98 317,177"/>
+        </TextRegion>
+        <TextRegion type="header" id="region_1719326936052_841" custom="readingOrder {index:1;} structure {type:header;}">
+            <Coords points="385,179 385,109 457,100 930,104 936,180"/>
+        </TextRegion>
+        <TextRegion id="region_1719326946547_844" custom="readingOrder {index:2;} structure {type:poem_lg;}">
+            <Coords points="195,427 204,204 548,193 1077,205 1126,317 1082,427"/>
+        </TextRegion>
+        <TextRegion id="region_1719326971086_847" custom="readingOrder {index:3;} structure {type:poem_lg;}">
+            <Coords points="201,541 1100,538 1150,1177 1110,1749 991,1776 844,1788 153,1807 174,884"/>
+        </TextRegion>
+        <TextRegion type="catch-word" id="region_1719326997310_851" custom="readingOrder {index:4;} structure {type:catch-word;}">
+            <Coords points="990,1826 991,1783 1032,1778 1076,1793 1076,1831"/>
+        </TextRegion>
+    </Page>
+</PcGts>
