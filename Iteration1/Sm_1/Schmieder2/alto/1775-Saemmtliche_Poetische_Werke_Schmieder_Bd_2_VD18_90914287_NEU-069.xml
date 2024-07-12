@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xmlns:map="http://www.w3.org/2005/xpath-functions/map"
+      xmlns:local="local"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <sourceImageInformation>
+         <fileName>1775-Saemmtliche_Poetische_Werke_Schmieder_Bd_2_VD18_90914287_NEU-069.png</fileName>
+      </sourceImageInformation>
+      <Processing ID="IdOcr">
+         <processingDateTime>2024-07-10T22:35:10.239+02:00</processingDateTime>
+         <processingSoftware>
+            <softwareCreator>READ COOP</softwareCreator>
+            <softwareName>Transkribus</softwareName>
+         </processingSoftware>
+      </Processing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="6" HEIGHT="1095" WIDTH="657">
+         <TopMargin HEIGHT="0" WIDTH="657" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="1095" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="1095" WIDTH="0" VPOS="0" HPOS="657"/>
+         <BottomMargin HEIGHT="0" WIDTH="657" VPOS="1095" HPOS="0"/>
+         <PrintSpace HEIGHT="1095" WIDTH="657" VPOS="0" HPOS="0">
+            <TextBlock ID="region_1720036321107_556"
+                       HEIGHT="32"
+                       WIDTH="43"
+                       VPOS="99"
+                       HPOS="143">
+               <Shape>
+                  <Polygon POINTS="147,128 143,101 186,99 186,131"/>
+               </Shape>
+            </TextBlock>
+            <TextBlock ID="region_1720036352111_559"
+                       HEIGHT="37"
+                       WIDTH="275"
+                       VPOS="99"
+                       HPOS="235">
+               <Shape>
+                  <Polygon POINTS="237,130 235,99 510,103 507,131 465,136 366,133 258,133"/>
+               </Shape>
+            </TextBlock>
+            <TextBlock ID="region_1720036372116_562"
+                       HEIGHT="183"
+                       WIDTH="459"
+                       VPOS="138"
+                       HPOS="146">
+               <Shape>
+                  <Polygon POINTS="147,145 146,308 225,321 565,321 605,287 595,138 449,141 232,141 157,139"/>
+               </Shape>
+            </TextBlock>
+            <TextBlock ID="region_1720036386211_565"
+                       HEIGHT="208"
+                       WIDTH="469"
+                       VPOS="345"
+                       HPOS="142">
+               <Shape>
+                  <Polygon POINTS="143,353 142,500 202,553 551,548 611,486 601,345 186,345"/>
+               </Shape>
+            </TextBlock>
+            <TextBlock ID="region_1720036399088_568"
+                       HEIGHT="157"
+                       WIDTH="467"
+                       VPOS="571"
+                       HPOS="139">
+               <Shape>
+                  <Polygon POINTS="139,591 140,691 216,728 514,726 606,665 603,571 165,576"/>
+               </Shape>
+            </TextBlock>
+            <TextBlock ID="region_1720036412035_571"
+                       HEIGHT="187"
+                       WIDTH="475"
+                       VPOS="755"
+                       HPOS="141">
+               <Shape>
+                  <Polygon POINTS="141,767 141,888 209,940 506,942 616,868 597,755 167,761"/>
+               </Shape>
+            </TextBlock>
+            <TextBlock ID="region_1720036417027_574"
+                       HEIGHT="36"
+                       WIDTH="44"
+                       VPOS="943"
+                       HPOS="554">
+               <Shape>
+                  <Polygon POINTS="554,975 554,943 598,945 594,979"/>
+               </Shape>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>
