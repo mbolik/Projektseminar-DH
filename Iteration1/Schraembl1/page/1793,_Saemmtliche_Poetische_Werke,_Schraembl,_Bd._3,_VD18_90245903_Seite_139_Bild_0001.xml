@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-06-16T17:33:44.149+02:00</Created>
+        <LastChange>2024-06-16T19:31:12.138+02:00</LastChange>
+        <TranskribusMetadata docId="2850365" pageId="72893323" pageNr="5" tsid="172359428" status="IN_PROGRESS" userId="28956" imgUrl="https://files.transkribus.eu/Get?id=VPCGBHACBWAJQOSWPEHYSKZI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NLBPFGESIIWZSXDIWPLPWVFD" imageId="58811140"/>
+    </Metadata>
+    <Page imageFilename="1793,_Saemmtliche_Poetische_Werke,_Schraembl,_Bd._3,_VD18_90245903_Seite_139_Bild_0001.jpg" imageWidth="1076" imageHeight="1900">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1720643277049" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1718558658445_344"/>
+                <RegionRefIndexed index="2" regionRef="region_1718558711622_351"/>
+                <RegionRefIndexed index="3" regionRef="region_1718558718198_354"/>
+                <RegionRefIndexed index="4" regionRef="region_1718558725727_357"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="page-number" id="region_1718558658445_344" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="296,234 376,234 376,195 296,195"/>
+        </TextRegion>
+        <SeparatorRegion id="Separator_1718558673213_347" custom="readingOrder {index:1;}">
+            <Coords points="295,273 1002,273 1002,237 295,237"/>
+        </SeparatorRegion>
+        <TextRegion id="region_1718558711622_351" custom="readingOrder {index:2;} structure {type:poem_lg;}">
+            <Coords points="293,281 987,281 987,1110 293,1110"/>
+        </TextRegion>
+        <TextRegion type="heading" id="region_1718558718198_354" custom="readingOrder {index:3;} structure {type:heading;}">
+            <Coords points="521,1148 743,1148 743,1121 521,1121"/>
+        </TextRegion>
+        <TextRegion id="region_1718558725727_357" custom="readingOrder {index:4;} structure {type:poem_lg;}">
+            <Coords points="283,1527 996,1525 992,1155 786,1154 619,1157 504,1154 279,1151"/>
+        </TextRegion>
+    </Page>
+</PcGts>

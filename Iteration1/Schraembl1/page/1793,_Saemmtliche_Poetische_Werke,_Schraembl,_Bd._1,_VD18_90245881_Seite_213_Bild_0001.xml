@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-06-16T17:33:43.712+02:00</Created>
+        <LastChange>2024-07-03T18:12:56.757+02:00</LastChange>
+        <TranskribusMetadata docId="2850365" pageId="72893317" pageNr="3" tsid="176204880" status="IN_PROGRESS" userId="28956" imgUrl="https://files.transkribus.eu/Get?id=XTUNEKWBUIOQIVQAWFKRBGPA&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MJIWDHSDTHEQKRZNLGPLUKKC" imageId="58811134"/>
+    </Metadata>
+    <Page imageFilename="1793,_Saemmtliche_Poetische_Werke,_Schraembl,_Bd._1,_VD18_90245881_Seite_213_Bild_0001.jpg" imageWidth="1076" imageHeight="1876">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1720643276293" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1718557281618_187"/>
+                <RegionRefIndexed index="2" regionRef="region_1718557327131_197"/>
+                <RegionRefIndexed index="3" regionRef="region_1718557336451_200"/>
+                <RegionRefIndexed index="4" regionRef="region_1718557365795_204"/>
+                <RegionRefIndexed index="5" regionRef="region_1718557380899_208"/>
+                <RegionRefIndexed index="6" regionRef="region_1718557429243_212"/>
+                <RegionRefIndexed index="7" regionRef="region_1718557451092_218"/>
+                <RegionRefIndexed index="8" regionRef="region_1720023129443_16"/>
+                <RegionRefIndexed index="9" regionRef="region_1718557460340_221"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="page-number" id="region_1718557281618_187" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="311,187 389,187 389,145 311,145"/>
+        </TextRegion>
+        <SeparatorRegion id="Separator_1718557293730_190" custom="readingOrder {index:1;}">
+            <Coords points="302,220 998,248 991,202 300,192"/>
+        </SeparatorRegion>
+        <TextRegion type="heading" id="region_1718557327131_197" custom="readingOrder {index:2;} structure {type:heading;}">
+            <Coords points="452,331 842,331 842,277 452,277"/>
+        </TextRegion>
+        <TextRegion type="endnote" id="region_1718557336451_200" custom="readingOrder {index:3;} structure {type:endnote;}">
+            <Coords points="289,349 1009,363 1009,1176 260,1192"/>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1718557365795_204" custom="readingOrder {index:4;} structure {type:paragraph;}">
+            <Coords points="305,458 991,471 991,369 295,369"/>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1718557380899_208" custom="readingOrder {index:5;} structure {type:paragraph;}">
+            <Coords points="297,529 292,599 451,608 709,609 801,591 994,574 995,485 328,468"/>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1718557429243_212" custom="readingOrder {index:6;} structure {type:paragraph;}">
+            <Coords points="290,615 996,613 996,1170 287,1169"/>
+        </TextRegion>
+        <TextRegion type="heading" id="region_1718557451092_218" custom="readingOrder {index:7;} structure {type:heading;}">
+            <Coords points="339,1253 932,1253 932,1210 339,1210"/>
+        </TextRegion>
+        <TextRegion type="endnote" id="region_1720023129443_16" custom="readingOrder {index:8;} structure {type:endnote;}">
+            <Coords points="267,1266 1013,1266 1021,1562 249,1559"/>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1718557460340_221" custom="readingOrder {index:9;} structure {type:paragraph;}">
+            <Coords points="271,1535 996,1535 998,1290 291,1286"/>
+        </TextRegion>
+    </Page>
+</PcGts>

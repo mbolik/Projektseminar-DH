@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-06-16T17:33:43.602+02:00</Created>
+        <LastChange>2024-07-03T18:11:31.617+02:00</LastChange>
+        <TranskribusMetadata docId="2850365" pageId="72893316" pageNr="2" tsid="176204495" status="IN_PROGRESS" userId="28956" imgUrl="https://files.transkribus.eu/Get?id=YWDBNOSXMUXRWVGCACDZNILX&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XSBZIJNNWNXJSYZFWBJOBAGW" imageId="58811133"/>
+    </Metadata>
+    <Page imageFilename="1793,_Saemmtliche_Poetische_Werke,_Schraembl,_Bd._1,_VD18_90245881_Seite_174_Bild_0001.jpg" imageWidth="1077" imageHeight="1870">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1720643275989" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1718552880300_60"/>
+                <RegionRefIndexed index="2" regionRef="region_1718552906173_66"/>
+                <RegionRefIndexed index="3" regionRef="region_1719924269292_260"/>
+                <RegionRefIndexed index="4" regionRef="region_1718552930676_69"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="page-number" id="region_1718552880300_60" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="705,214 791,214 791,166 705,166"/>
+        </TextRegion>
+        <SeparatorRegion id="Separator_1718552891916_63" custom="readingOrder {index:1;}">
+            <Coords points="74,254 780,254 780,216 74,216"/>
+        </SeparatorRegion>
+        <TextRegion id="region_1718552906173_66" custom="readingOrder {index:2;} structure {type:poem_lg;}">
+            <Coords points="79,261 820,261 820,1399 79,1399"/>
+        </TextRegion>
+        <TextRegion type="footnote" id="region_1719924269292_260" custom="readingOrder {index:3;} structure {type:footnote;}">
+            <Coords points="58,1416 821,1411 828,1579 49,1570"/>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1718552930676_69" custom="readingOrder {index:4;} structure {type:paragraph;}">
+            <Coords points="83,1550 796,1545 786,1426 83,1430"/>
+        </TextRegion>
+    </Page>
+</PcGts>
