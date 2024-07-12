@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xmlns:map="http://www.w3.org/2005/xpath-functions/map"
+      xmlns:local="local"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <sourceImageInformation>
+         <fileName>1775-Saemmtliche_Poetische_Werke_Schmieder_Bd_3_VD18_90914295_NEU-004.png</fileName>
+      </sourceImageInformation>
+      <Processing ID="IdOcr">
+         <processingDateTime>2024-07-12T15:19:05.182+02:00</processingDateTime>
+         <processingSoftware>
+            <softwareCreator>READ COOP</softwareCreator>
+            <softwareName>Transkribus</softwareName>
+         </processingSoftware>
+      </Processing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="1102" WIDTH="649">
+         <TopMargin HEIGHT="0" WIDTH="649" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="1102" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="1102" WIDTH="0" VPOS="0" HPOS="649"/>
+         <BottomMargin HEIGHT="0" WIDTH="649" VPOS="1102" HPOS="0"/>
+         <PrintSpace HEIGHT="1102" WIDTH="649" VPOS="0" HPOS="0">
+            <TextBlock ID="region_1719906681932_8"
+                       HEIGHT="55"
+                       WIDTH="205"
+                       VPOS="241"
+                       HPOS="193">
+               <Shape>
+                  <Polygon POINTS="198,296 193,252 395,241 398,286"/>
+               </Shape>
+            </TextBlock>
+            <TextBlock ID="region_1719906718847_11"
+                       HEIGHT="91"
+                       WIDTH="72"
+                       VPOS="310"
+                       HPOS="81">
+               <Shape>
+                  <Polygon POINTS="81,315 84,393 125,401 152,387 153,356 140,343 148,319 133,310"/>
+               </Shape>
+            </TextBlock>
+            <TextBlock ID="region_1719906753945_14"
+                       HEIGHT="502"
+                       WIDTH="461"
+                       VPOS="306"
+                       HPOS="77">
+               <Shape>
+                  <Polygon POINTS="151,322 143,339 159,363 158,390 125,405 78,399 77,808 538,785 525,306 272,317"/>
+               </Shape>
+            </TextBlock>
+            <TextBlock ID="region_1719906809492_24"
+                       HEIGHT="19"
+                       WIDTH="54"
+                       VPOS="801"
+                       HPOS="289">
+               <Shape>
+                  <Polygon POINTS="291,819 289,802 343,801 342,820"/>
+               </Shape>
+            </TextBlock>
+            <TextBlock ID="region_1719906817944_27"
+                       HEIGHT="23"
+                       WIDTH="48"
+                       VPOS="787"
+                       HPOS="486">
+               <Shape>
+                  <Polygon POINTS="486,810 492,787 534,788 529,810"/>
+               </Shape>
+            </TextBlock>
+            <TextBlock ID="region_1720087038450_334"
+                       HEIGHT="151"
+                       WIDTH="490"
+                       VPOS="814"
+                       HPOS="79">
+               <Shape>
+                  <Polygon POINTS="79,828 275,825 569,814 564,965 80,961"/>
+               </Shape>
+            </TextBlock>
+            <TextBlock ID="region_1719906832446_30"
+                       HEIGHT="119"
+                       WIDTH="454"
+                       VPOS="827"
+                       HPOS="92">
+               <Shape>
+                  <Polygon POINTS="104,928 92,837 546,827 544,946 316,944 306,924"/>
+               </Shape>
+            </TextBlock>
+            <GraphicalElement ID="Separator_1719906636302_3"
+                              HEIGHT="91"
+                              WIDTH="460"
+                              VPOS="104"
+                              HPOS="72"/>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>
