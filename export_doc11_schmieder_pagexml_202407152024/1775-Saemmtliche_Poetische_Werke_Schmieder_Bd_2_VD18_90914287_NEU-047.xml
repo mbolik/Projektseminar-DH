@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2024-07-15T12:01:50.233046+00:00</Created>
+        <LastChange>2024-07-15T12:01:50.233071+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="1775-Saemmtliche_Poetische_Werke_Schmieder_Bd_2_VD18_90914287_NEU-047.png" imageWidth="657" imageHeight="1095">
+    <TextRegion id="region_1720036711602_588"  custom="structure {type:page-number;}">
+      <Coords points="161,127 160,98 201,101 200,132"/>
+    </TextRegion>
+    <TextRegion id="region_1720036728644_591"  custom="structure {type:header;}">
+      <Coords points="253,127 253,88 516,93 516,129 425,128 293,125 272,128"/>
+    </TextRegion>
+    <TextRegion id="region_1720036741498_594"  custom="structure {type:drop-capital;}">
+      <Coords points="186,191 189,161 167,160 163,191"/>
+    </TextRegion>
+    <TextRegion id="region_1720036769323_597"  custom="structure {type:poem_lg;}">
+      <Coords points="188,189 190,169 596,167 608,345 157,334 167,216 186,202"/>
+    </TextRegion>
+    <TextRegion id="region_1720036846143_623"  custom="structure {type:heading;}">
+      <Coords points="235,464 237,426 532,426 534,465"/>
+    </TextRegion>
+    <TextRegion id="region_1720036857602_626"  custom="structure {type:drop-capital;}">
+      <Coords points="197,516 193,510 191,506 196,494 200,484 192,476 162,476 163,513 177,517"/>
+    </TextRegion>
+    <TextRegion id="region_1720036917567_639"  custom="structure {type:poem_lg;}">
+      <Coords points="161,520 202,519 194,511 193,505 201,494 516,492 487,794 150,778"/>
+    </TextRegion>
+    <TextRegion id="region_1720036926668_642"  custom="structure {type:catch-word;}">
+      <Coords points="536,955 541,989 597,985 595,950"/>
+    </TextRegion>
+  </Page>
+</PcGts>
