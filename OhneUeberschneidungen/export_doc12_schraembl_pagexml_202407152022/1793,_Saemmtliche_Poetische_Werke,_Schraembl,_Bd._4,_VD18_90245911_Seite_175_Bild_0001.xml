@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2024-07-15T12:28:24.689248+00:00</Created>
+        <LastChange>2024-07-15T12:28:24.689282+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="1793,_Saemmtliche_Poetische_Werke,_Schraembl,_Bd._4,_VD18_90245911_Seite_175_Bild_0001.jpg" imageWidth="1065" imageHeight="1842">
+    <TextRegion id="region_1720169482127_875"  custom="structure {type:page-number;}">
+      <Coords points="298,178 300,206 359,208 355,171"/>
+    </TextRegion>
+    <TextRegion id="region_1720169489827_878"  custom="structure {type:heading;}">
+      <Coords points="524,382 526,437 766,435 751,380"/>
+    </TextRegion>
+    <TextRegion id="region_1720169499470_881"  custom="structure {type:drop-capital;}">
+      <Coords points="395,614 423,561 388,550 330,556 329,582 354,616"/>
+    </TextRegion>
+    <TextRegion id="region_1720169519426_884"  custom="structure {type:poem_lg;}">
+      <Coords points="413,587 408,598 408,614 404,624 293,623 292,860 930,857 1007,652 1047,599 1041,560 422,573"/>
+    </TextRegion>
+    <TextRegion id="region_1720169528297_887"  custom="structure {type:poem_lg;}">
+      <Coords points="297,899 289,1190 929,1168 1015,1080 989,880"/>
+    </TextRegion>
+    <TextRegion id="region_1720169537939_890"  custom="structure {type:poem_lg;}">
+      <Coords points="310,1228 290,1501 831,1506 970,1431 998,1349 877,1199 350,1214"/>
+    </TextRegion>
+  </Page>
+</PcGts>
