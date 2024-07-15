@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-06-16T20:01:11.242+02:00</Created>
+        <LastChange>2024-07-12T15:33:41.187+02:00</LastChange>
+        <TranskribusMetadata docId="2986766" pageId="73470035" pageNr="1" tsid="177471108" status="IN_PROGRESS" userId="241044" imgUrl="https://files.transkribus.eu/Get?id=ABSMHYXSLOGINLQZNNXWAUOW&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GJPJTXFCJUQLZTSDADLYMWJS" imageId="59329207"/>
+    </Metadata>
+    <Page imageFilename="1766-71,_Poetische_Werke,_Walthard,_Bd._2_Seite_015_Bild_0001.jpg" imageWidth="584" imageHeight="915" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1721037685061" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1718562167294_391"/>
+                <RegionRefIndexed index="1" regionRef="region_1718562173995_394"/>
+                <RegionRefIndexed index="2" regionRef="region_1718562184573_397"/>
+                <RegionRefIndexed index="3" regionRef="region_1718562210495_400"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="page-number" id="region_1718562167294_391" custom="readingOrder {index:0;} structure {type:page-number;}">
+            <Coords points="125,131 103,131 103,112 125,112"/>
+        </TextRegion>
+        <TextRegion type="header" id="region_1718562173995_394" custom="readingOrder {index:1;} structure {type:header;}">
+            <Coords points="244,111 370,111 370,134 244,134"/>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1718562184573_397" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="521,145 97,145 97,412 521,412"/>
+        </TextRegion>
+        <TextRegion type="footnote" id="region_1718562210495_400" custom="readingOrder {index:3;} structure {type:footnote;}">
+            <Coords points="98,421 520,421 520,790 98,790"/>
+        </TextRegion>
+    </Page>
+</PcGts>

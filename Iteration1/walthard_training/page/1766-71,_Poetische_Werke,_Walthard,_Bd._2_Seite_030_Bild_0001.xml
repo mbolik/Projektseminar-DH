@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-06-16T20:01:11.618+02:00</Created>
+        <LastChange>2024-07-12T13:14:49.673+02:00</LastChange>
+        <TranskribusMetadata docId="2986766" pageId="73470078" pageNr="3" tsid="177446728" status="IN_PROGRESS" userId="241044" imgUrl="https://files.transkribus.eu/Get?id=QMEVJDISCAWUGZSZWWSGZQMH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=MABXLZOOUCOAJWINEHYFDIXN" imageId="59329209"/>
+    </Metadata>
+    <Page imageFilename="1766-71,_Poetische_Werke,_Walthard,_Bd._2_Seite_030_Bild_0001.jpg" imageWidth="584" imageHeight="915" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1721037685379" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1718562513837_466"/>
+                <RegionRefIndexed index="1" regionRef="region_1718562521256_469"/>
+                <RegionRefIndexed index="3" regionRef="region_1718562534493_472"/>
+                <RegionRefIndexed index="4" regionRef="region_1718562543272_475"/>
+                <RegionRefIndexed index="5" regionRef="region_1718562578966_478"/>
+                <RegionRefIndexed index="6" regionRef="region_1718562706709_491"/>
+                <RegionRefIndexed index="7" regionRef="region_1718562720643_494"/>
+                <RegionRefIndexed index="8" regionRef="region_1718562725816_497"/>
+                <RegionRefIndexed index="9" regionRef="region_1718562731240_500"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations>
+            <Relation type="link">
+                <RegionRef regionRef="region_1718562578966_478"/>
+                <RegionRef regionRef="region_1718562706709_491"/>
+            </Relation>
+        </Relations>
+        <TextRegion type="header" id="region_1718562513837_466" custom="readingOrder {index:0;} structure {type:header;}">
+            <Coords points="209,111 337,111 337,134 209,134"/>
+        </TextRegion>
+        <TextRegion type="page-number" id="region_1718562521256_469" custom="readingOrder {index:1;} structure {type:page-number;}">
+            <Coords points="461,116 482,116 482,132 461,132"/>
+        </TextRegion>
+        <SeparatorRegion id="Separator_1718562859899_513" custom="readingOrder {index:2;}">
+            <Coords points="74,138 482,138 483,150 75,150"/>
+        </SeparatorRegion>
+        <TextRegion type="heading" id="region_1718562534493_472" custom="readingOrder {index:3;} structure {type:heading;}">
+            <Coords points="67,181 481,181 481,219 67,219"/>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1718562543272_475" custom="readingOrder {index:4;} structure {type:paragraph;}">
+            <Coords points="104,236 450,236 450,288 104,288"/>
+        </TextRegion>
+        <TextRegion type="drop-capital" id="region_1718562578966_478" custom="readingOrder {index:5;} structure {type:drop-capital;}">
+            <Coords points="70,310 96,310 96,344 70,344"/>
+        </TextRegion>
+        <TextRegion id="region_1718562706709_491" custom="readingOrder {index:6;} structure {type:poem_lg;}">
+            <Coords points="463,437 68,437 69,347 97,347 98,328 464,325"/>
+        </TextRegion>
+        <TextRegion id="region_1718562720643_494" custom="readingOrder {index:7;} structure {type:poem_lg;}">
+            <Coords points="66,629 480,629 480,458 66,458"/>
+        </TextRegion>
+        <TextRegion id="region_1718562725816_497" custom="readingOrder {index:8;} structure {type:poem_lg;}">
+            <Coords points="67,760 480,760 480,649 67,649"/>
+        </TextRegion>
+        <TextRegion type="signature-mark" id="region_1718562731240_500" custom="readingOrder {index:9;} structure {type:signature-mark;}">
+            <Coords points="332,784 367,784 367,762 332,762"/>
+        </TextRegion>
+    </Page>
+</PcGts>
