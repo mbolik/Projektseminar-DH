@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2024-07-15T11:59:42.853162+00:00</Created>
+        <LastChange>2024-07-15T11:59:42.853190+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="1775-Saemmtliche_Poetische_Werke_Schmieder_Bd_1_VD18_90914260_NEU-045.png" imageWidth="658" imageHeight="1096">
+    <TextRegion id="region_1718646016478_16"  custom="structure {type:header;}">
+      <Coords points="429,111 200,111 200,70 429,70"/>
+    </TextRegion>
+    <TextRegion id="region_1718646020339_19"  custom="structure {type:page-number;}">
+      <Coords points="555,101 522,101 522,70 555,70"/>
+    </TextRegion>
+    <TextRegion id="region_1718646703247_54"  custom="structure {type:drop-capital;}">
+      <Coords points="133,157 163,154 164,122 133,122"/>
+    </TextRegion>
+    <TextRegion id="region_1718646027149_22"  custom="structure {type:poem_lg;}">
+      <Coords points="581,344 76,344 81,176 164,170 165,127 581,116"/>
+    </TextRegion>
+    <TextRegion id="region_1718646776240_72"  custom="structure {type:drop-capital;}">
+      <Coords points="168,409 144,406 140,376 172,377"/>
+    </TextRegion>
+    <TextRegion id="region_1718646033726_25"  custom="structure {type:poem_lg;}">
+      <Coords points="580,589 98,596 95,435 169,422 174,370 591,364"/>
+    </TextRegion>
+    <TextRegion id="region_1718646056317_28"  custom="structure {type:catch-word;}">
+      <Coords points="574,620 509,620 510,594 573,599"/>
+    </TextRegion>
+    <TextRegion id="region_1718646068628_34"  custom="structure {type:footnote;}">
+      <Coords points="486,780 119,780 119,651 486,651"/>
+    </TextRegion>
+    <TextRegion id="region_1718646072181_37"  custom="structure {type:footnote;}">
+      <Coords points="515,909 128,920 118,807 510,798"/>
+    </TextRegion>
+    <TextRegion id="region_1718646074893_40"  custom="structure {type:signature-mark;}">
+      <Coords points="380,963 313,963 313,928 380,928"/>
+    </TextRegion>
+    <TextRegion id="region_1718646077870_43"  custom="structure {type:catch-word;}">
+      <Coords points="582,953 515,956 512,926 583,926"/>
+    </TextRegion>
+  </Page>
+</PcGts>
