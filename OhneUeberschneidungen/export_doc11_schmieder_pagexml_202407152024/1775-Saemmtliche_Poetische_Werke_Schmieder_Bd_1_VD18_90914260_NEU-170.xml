@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2024-07-15T11:59:45.656282+00:00</Created>
+        <LastChange>2024-07-15T11:59:45.656307+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="1775-Saemmtliche_Poetische_Werke_Schmieder_Bd_1_VD18_90914260_NEU-170.png" imageWidth="658" imageHeight="1096">
+    <TextRegion id="region_1719336961453_1025"  custom="structure {type:page-number;}">
+      <Coords points="136,126 137,102 186,102 184,130"/>
+    </TextRegion>
+    <TextRegion id="region_1719336973818_1028"  custom="structure {type:header;}">
+      <Coords points="264,123 266,96 495,98 494,127"/>
+    </TextRegion>
+    <TextRegion id="region_1719336983548_1031"  custom="structure {type:poem_lg;}">
+      <Coords points="138,249 138,143 190,137 608,137 600,247"/>
+    </TextRegion>
+    <TextRegion id="region_1719336989169_1034"  custom="structure {type:catch-word;}">
+      <Coords points="556,279 556,254 603,255 601,279"/>
+    </TextRegion>
+    <TextRegion id="region_1719337114343_1046"  custom="structure {type:footnote;}">
+      <Coords points="147,736 150,300 603,294 600,733"/>
+    </TextRegion>
+    <TextRegion id="region_1719337070457_1043"  custom="structure {type:footnote;}">
+      <Coords points="213,769 210,741 388,745 393,771"/>
+    </TextRegion>
+    <TextRegion id="region_1719337061014_1040"  custom="structure {type:footnote;}">
+      <Coords points="153,785 155,972 587,980 591,777"/>
+    </TextRegion>
+  </Page>
+</PcGts>
