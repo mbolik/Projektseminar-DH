@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2024-07-15T11:59:46.859405+00:00</Created>
+        <LastChange>2024-07-15T11:59:46.859428+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="1775-Saemmtliche_Poetische_Werke_Schmieder_Bd_1_VD18_90914260_NEU-194.png" imageWidth="658" imageHeight="1096">
+    <TextRegion id="region_1719339136740_1289"  custom="structure {type:page-number;}">
+      <Coords points="193,121 191,87 134,89 144,119"/>
+    </TextRegion>
+    <TextRegion id="region_1719339150451_1292"  custom="structure {type:heading;}">
+      <Coords points="239,113 241,79 537,83 534,116 350,113 274,117"/>
+    </TextRegion>
+    <TextRegion id="region_1719339181397_1295"  custom="structure {type:poem_lg;}">
+      <Coords points="140,131 167,124 239,124 330,128 352,124 398,125 445,126 507,126 560,126 603,124 608,276 607,425 531,432 400,428 139,436"/>
+    </TextRegion>
+    <TextRegion id="region_1719339189491_1298"  custom="structure {type:catch-word;}">
+      <Coords points="548,464 551,435 579,434 607,434 606,463"/>
+    </TextRegion>
+    <TextRegion id="region_1719339243798_1304"  custom="structure {type:footnote;}">
+      <Coords points="163,487 227,486 244,484 483,483 605,486 606,724 425,732 168,733 153,708"/>
+    </TextRegion>
+    <TextRegion id="region_1719339294401_1309"  custom="structure {type:footnote;}">
+      <Coords points="184,742 186,771 542,763 540,734 407,739 365,739 257,741 226,738"/>
+    </TextRegion>
+    <TextRegion id="region_1719339320877_1312"  custom="structure {type:footnote;}">
+      <Coords points="162,781 162,930 326,926 407,926 413,929 429,929 443,927 503,927 605,922 607,774 252,777"/>
+    </TextRegion>
+    <TextRegion id="region_1719339336183_1315"  custom="structure {type:catch-word;}">
+      <Coords points="559,956 562,936 579,935 603,939 611,950 603,962"/>
+    </TextRegion>
+  </Page>
+</PcGts>
