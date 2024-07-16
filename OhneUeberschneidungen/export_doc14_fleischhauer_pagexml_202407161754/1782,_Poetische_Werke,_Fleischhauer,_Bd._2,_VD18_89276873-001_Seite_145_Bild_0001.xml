@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2024-07-16T17:41:40.523084+00:00</Created>
+        <LastChange>2024-07-16T17:41:40.523123+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="1782,_Poetische_Werke,_Fleischhauer,_Bd._2,_VD18_89276873-001_Seite_145_Bild_0001.jpg" imageWidth="1219" imageHeight="2032">
+    <TextRegion id="region_1719325633749_622"  custom="structure {type:page-number;}">
+      <Coords points="197,201 192,137 314,127 312,190"/>
+    </TextRegion>
+    <TextRegion id="region_1719325651895_625"  custom="structure {type:header;}">
+      <Coords points="355,195 359,132 402,122 899,110 878,199"/>
+    </TextRegion>
+    <TextRegion id="region_1719325674531_628"  custom="structure {type:poem_lg;}">
+      <Coords points="192,354 182,232 352,210 876,222 1105,266 1072,342 892,349 890,382 642,392 574,363"/>
+    </TextRegion>
+    <TextRegion id="region_1719325685501_631"  custom="structure {type:poem_lg;}">
+      <Coords points="179,1032 177,480 270,451 1104,456 1101,1012"/>
+    </TextRegion>
+    <TextRegion id="TextRegion_1719325858174_652"  custom="structure {type:drop-capital;}">
+      <Coords points="306,1251 341,1267 337,1275 322,1303 323,1321 320,1332 296,1338 260,1327 265,1268"/>
+    </TextRegion>
+    <TextRegion id="TextRegion_1719325858173_651"  custom="structure {type:poem_lg;}">
+      <Coords points="341,1267 347,1270 1076,1268 1088,1514 191,1539 179,1330 260,1338 260,1327 296,1338 320,1332 323,1321 322,1303 337,1275"/>
+    </TextRegion>
+    <TextRegion id="region_1719325726217_637"  custom="structure {type:endnote;}">
+      <Coords points="202,1818 171,1609 1097,1616 1087,1784 387,1829"/>
+    </TextRegion>
+    <TextRegion id="region_1719325738151_640"  custom="structure {type:catch-word;}">
+      <Coords points="998,1849 998,1803 1082,1798 1081,1842"/>
+    </TextRegion>
+  </Page>
+</PcGts>

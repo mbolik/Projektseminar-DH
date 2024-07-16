@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2024-07-16T17:40:18.196290+00:00</Created>
+        <LastChange>2024-07-16T17:40:18.196322+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="1782,_Poetische_Werke,_Fleischhauer,_Bd._1,_VD18_89276865-001_Seite_227_Bild_0001.jpg" imageWidth="1148" imageHeight="2036">
+    <TextRegion id="region_1721150211123_402"  custom="structure {type:page-number;}">
+      <Coords points="172,126 176,177 281,177 271,124"/>
+    </TextRegion>
+    <TextRegion id="region_1721150216678_405"  custom="structure {type:header;}">
+      <Coords points="386,99 389,177 854,171 836,103"/>
+    </TextRegion>
+    <TextRegion id="region_1721150206070_399"  custom="structure {type:endnote;}">
+      <Coords points="187,208 188,659 839,650 849,604 1079,604 1088,192"/>
+    </TextRegion>
+    <TextRegion id="region_1721150193140_396"  custom="structure {type:heading;}">
+      <Coords points="357,792 367,890 875,881 875,787"/>
+    </TextRegion>
+    <TextRegion id="region_1721150145951_387"  custom="structure {type:drop-capital;}">
+      <Coords points="284,927 276,996 169,1001 200,904"/>
+    </TextRegion>
+    <TextRegion id="region_1721150177588_390"  custom="structure {type:poem_lg;}">
+      <Coords points="288,946 280,972 281,1003 253,1002 194,1006 186,1174 818,1147 855,931"/>
+    </TextRegion>
+    <TextRegion id="region_1721150185783_393"  custom="structure {type:endnote;}">
+      <Coords points="252,1181 245,1233 849,1229 843,1172"/>
+    </TextRegion>
+    <TextRegion id="region_1721150013932_367"  custom="structure {type:heading;}">
+      <Coords points="433,1379 214,1491 248,1573 1071,1558 1016,1469 816,1372"/>
+    </TextRegion>
+    <TextRegion id="region_1721150025427_370"  custom="structure {type:drop-capital;}">
+      <Coords points="279,1598 275,1636 267,1644 271,1660 269,1674 216,1679 196,1590"/>
+    </TextRegion>
+    <TextRegion id="region_1721150064849_375"  custom="structure {type:poem_lg;}">
+      <Coords points="1036,1613 289,1617 281,1630 271,1647 276,1671 271,1684 234,1684 202,1681 199,1785 898,1785 934,1705 1094,1670 1084,1612"/>
+    </TextRegion>
+    <TextRegion id="region_1721150124760_384"  custom="structure {type:catch-word;}">
+      <Coords points="999,1767 999,1844 1099,1833 1092,1761"/>
+    </TextRegion>
+  </Page>
+</PcGts>

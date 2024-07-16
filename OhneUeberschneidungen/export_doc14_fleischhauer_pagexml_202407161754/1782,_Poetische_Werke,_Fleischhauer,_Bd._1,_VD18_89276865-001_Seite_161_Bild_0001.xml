@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2024-07-16T17:40:17.428036+00:00</Created>
+        <LastChange>2024-07-16T17:40:17.428066+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="1782,_Poetische_Werke,_Fleischhauer,_Bd._1,_VD18_89276865-001_Seite_161_Bild_0001.jpg" imageWidth="1189" imageHeight="2037">
+    <TextRegion id="region_1721149577159_287"  custom="structure {type:page-number;}">
+      <Coords points="198,122 201,190 334,174 309,112"/>
+    </TextRegion>
+    <TextRegion id="region_1721149582601_290"  custom="structure {type:header;}">
+      <Coords points="421,93 421,175 881,178 860,93"/>
+    </TextRegion>
+    <TextRegion id="region_1721149609490_293"  custom="structure {type:endnote;}">
+      <Coords points="200,209 162,1342 1129,1343 1093,199"/>
+    </TextRegion>
+    <TextRegion id="region_1721149619387_296"  custom="structure {type:endnote;}">
+      <Coords points="243,1419 244,1605 1122,1561 1098,1402"/>
+    </TextRegion>
+    <TextRegion id="region_1721149626246_299"  custom="structure {type:endnote;}">
+      <Coords points="246,1636 269,1794 1100,1775 1081,1611"/>
+    </TextRegion>
+    <TextRegion id="region_1721149634143_302"  custom="structure {type:catch-word;}">
+      <Coords points="988,1782 985,1829 1084,1828 1080,1786"/>
+    </TextRegion>
+  </Page>
+</PcGts>

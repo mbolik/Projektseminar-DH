@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2024-07-16T17:41:39.161475+00:00</Created>
+        <LastChange>2024-07-16T17:41:39.161503+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="1782,_Poetische_Werke,_Fleischhauer,_Bd._2,_VD18_89276873-001_Seite_047_Bild_0001.jpg" imageWidth="1204" imageHeight="2035">
+    <TextRegion id="region_1719324270185_385"  custom="structure {type:page-number;}">
+      <Coords points="199,190 206,136 296,134 291,194"/>
+    </TextRegion>
+    <TextRegion id="region_1719324280137_388"  custom="structure {type:header;}">
+      <Coords points="377,193 379,114 914,114 921,185"/>
+    </TextRegion>
+    <TextRegion id="region_1719324297406_391"  custom="structure {type:poem_lg;}">
+      <Coords points="201,558 198,263 276,218 889,218 925,367 994,389 996,446 967,537"/>
+    </TextRegion>
+    <TextRegion id="region_1719324308448_394"  custom="structure {type:poem_lg;}">
+      <Coords points="202,947 204,679 282,614 1041,608 1043,936"/>
+    </TextRegion>
+    <TextRegion id="region_1719324346208_403"  custom="structure {type:catch-word;}">
+      <Coords points="1002,1829 999,1765 1113,1750 1118,1822"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_ce98e563"  custom="structure {type:endnote;}">
+      <Coords points="202,989 202,1231 1118,1231 1118,989"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_76457715"  custom="structure {type:endnote;}">
+      <Coords points="284,1262 284,1545 1114,1545 1114,1262"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_c8d5a98a"  custom="structure {type:endnote;}">
+      <Coords points="244,1573 244,1629 1071,1629 1071,1573"/>
+    </TextRegion>
+  </Page>
+</PcGts>

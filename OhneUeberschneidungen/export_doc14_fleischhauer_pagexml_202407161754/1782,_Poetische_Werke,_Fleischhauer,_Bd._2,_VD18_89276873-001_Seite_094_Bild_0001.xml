@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2024-07-16T17:41:39.841672+00:00</Created>
+        <LastChange>2024-07-16T17:41:39.841713+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="1782,_Poetische_Werke,_Fleischhauer,_Bd._2,_VD18_89276873-001_Seite_094_Bild_0001.jpg" imageWidth="1207" imageHeight="2034">
+    <TextRegion id="region_1719324947259_522"  custom="structure {type:catch-word;}">
+      <Coords points="919,1865 921,1776 1040,1776 1049,1872"/>
+      <TextLine id="region_1719324947259_522_tl_1" >
+        <Coords points="938,1793 942,1793 972,1793 1002,1793 1032,1789 1032,1839 1002,1843 972,1843 942,1843 938,1843"/>
+        <Baseline points="938,1838 942,1838 972,1838 1002,1838 1032,1834"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="region_1719324960200_525"  custom="structure {type:header;}">
+      <Coords points="410,188 414,124 686,107 710,178"/>
+    </TextRegion>
+    <TextRegion id="region_1719324973149_528"  custom="structure {type:page-number;}">
+      <Coords points="942,197 948,130 1036,131 1027,202"/>
+    </TextRegion>
+    <TextRegion id="region_1719324992811_531"  custom="structure {type:poem_lg;}">
+      <Coords points="137,437 133,205 827,214 828,251 1049,281 1057,458 746,441"/>
+    </TextRegion>
+    <TextRegion id="region_1719325004461_534"  custom="structure {type:endnote;}">
+      <Coords points="149,611 141,495 1022,504 1021,606"/>
+    </TextRegion>
+    <TextRegion id="region_1719324941527_519"  custom="structure {type:signature-mark;}">
+      <Coords points="535,1863 530,1776 654,1781 658,1866"/>
+    </TextRegion>
+  </Page>
+</PcGts>
