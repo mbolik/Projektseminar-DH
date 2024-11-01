@@ -1,27 +1,32 @@
-Modelle: Runtergeladene und trainierte Modelle
+## Versionsnummerierung: 
 
-OhneAnnotationen: "Leere" Seiten zum Testen, nur Bilder
+### Iteration 1: Regionen 
 
-Iteration1: Dateien aus Transkribus runtergeladen, folgen weitestgehend Annotationsrichtlinien wie besprochen. Version (s.u.) 1.0
+* __1.0__: "Original":Nach Handout/OCR-D also mit "rekursiven" FN
 
-OhneUeberschneidungen: Stand 16.07. "Überlappende" FN-Regionen rausgenommen/darin enthaltene paragraphs etc als FN etc ausgezeichnet. Version (s.u.) 1.1
+* __1.1__: "Zwischenstufe Präsentation": Ohne überlappende FN (auf github)
 
-Vorschlag zur Versionsnummerierung: 
+* __1.2__: für Escriptorium, wie gestern besprochen, keine überlappungen, stark reduzierte Regionen, keine Vierecke etc. 
 
-Iteration 1: Regionen 
+### Iteration 2: Regionen + Zeilen (momentan hintenan geschoben)
 
-1.0: "Original":Nach Handout/OCR-D also mit "rekursiven" FN
+* __2.0__: basierend auf 1.0
 
-1.1: "Zwischenstufe Präsentation": Ohne überlappende FN (auf github)
+* 2.1: basierend auf 1.1. (Brauchen wir glaub gar nicht)
 
-1.2: für Escriptorium, wie gestern besprochen, keine überlappungen, stark reduzierte Regionen, keine Vierecke etc. 
+* __2.2__: basierend auf 1.2 
+  * (sollten wir varianten haben, dann 1.2.1 benennen etc.)
 
-Iteration 2: Regionen + Zeilen (momentan hintenan geschoben)
+### Iteration 3:Regionen + Zeilen + Text (ferne Zukunft) 
 
-2.0: basierend auf 1.0
 
-2.1: basierend auf 1.1. (Brauchen wir glaub gar nicht)
 
-2.2: basierend auf 1.2 (sollten wir varianten haben, dann 1.2.1 benennen etc.)
+## __Ordnerinhalt:__ _evtl anpassen_
+* _Modelle_: Runtergeladene und trainierte Modelle
 
-Iteration 3:Regionen + Zeilen + Text (ferne Zukunft) 
+* _OhneAnnotationen_: "Leere" Seiten zum Testen, nur Bilder
+
+* _Iteration1_: Dateien aus Transkribus runtergeladen, folgen weitestgehend Annotationsrichtlinien wie besprochen. Version (s.o.) __1.0__
+
+* _OhneUeberschneidungen_: Stand 16.07. "Überlappende" FN-Regionen rausgenommen/darin enthaltene paragraphs etc als FN etc ausgezeichnet. Version (s.o.) __1.1__
+
