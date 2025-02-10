@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2025-01-24T15:00:23.432+01:00</Created>
+        <LastChange>2025-01-24T15:25:21.878+01:00</LastChange>
+        <TranskribusMetadata docId="2986867" pageId="89964867" pageNr="12" tsid="223459128" status="IN_PROGRESS" userId="241044" imgUrl="https://files.transkribus.eu/Get?id=VISIBQPYIKJPZSHYWDUMWIZF&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=BOYWGXJUHGJGVWZHXVXIGCXE" imageId="74975331"/>
+    </Metadata>
+    <Page imageFilename="1789,_Saemmtliche_Poetische_Werke,_Baumeister,_Bd._1,_VD18_80391559-001_Seite_113_Bild_0001.jpg" imageWidth="871" imageHeight="1511">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1739204458317" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1737728591807_546"/>
+                <RegionRefIndexed index="1" regionRef="region_1737728603036_549"/>
+                <RegionRefIndexed index="2" regionRef="region_1737728614534_552"/>
+                <RegionRefIndexed index="3" regionRef="region_1737728634739_555"/>
+                <RegionRefIndexed index="4" regionRef="region_1737728643470_558"/>
+                <RegionRefIndexed index="5" regionRef="region_1737728657014_561"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="heading" id="region_1737728591807_546" custom="readingOrder {index:0;} structure {type:heading;}">
+            <Coords points="143,91 147,140 206,132 203,92"/>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1737728603036_549" custom="readingOrder {index:1;} structure {type:paragraph;}">
+            <Coords points="147,155 805,157 793,377 650,409 148,412"/>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1737728614534_552" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="188,436 804,444 789,789 144,782 146,520 192,515"/>
+        </TextRegion>
+        <TextRegion type="footnote" id="region_1737728634739_555" custom="readingOrder {index:3;} structure {type:footnote;}">
+            <Coords points="190,859 788,863 783,904 409,907 415,943 132,949 132,913 192,901"/>
+        </TextRegion>
+        <TextRegion type="footnote" id="region_1737728643470_558" custom="readingOrder {index:4;} structure {type:footnote;}">
+            <Coords points="198,979 789,988 790,1067 658,1076 663,1109 135,1113 143,1029 186,1033"/>
+        </TextRegion>
+        <TextRegion type="footnote" id="region_1737728657014_561" custom="readingOrder {index:5;} structure {type:footnote;}">
+            <Coords points="189,1146 796,1156 784,1332 140,1334 148,1201 194,1195"/>
+        </TextRegion>
+    </Page>
+</PcGts>

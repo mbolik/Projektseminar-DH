@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xd="http://www.oxygenxml.com/ns/doc/xsl"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xmlns:map="http://www.w3.org/2005/xpath-functions/map"
+      xmlns:local="local"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <sourceImageInformation>
+         <fileName>1789,_Saemmtliche_Poetische_Werke,_Baumeister,_Bd._2,_VD18_80391567-001_Seite_289_Bild_0001.jpg</fileName>
+      </sourceImageInformation>
+      <Processing ID="IdOcr">
+         <processingDateTime>2025-02-10T17:21:00.038+01:00</processingDateTime>
+         <processingSoftware>
+            <softwareCreator>READ COOP</softwareCreator>
+            <softwareName>Transkribus</softwareName>
+         </processingSoftware>
+      </Processing>
+   </Description>
+   <Layout>
+      <Page ID="Page17" PHYSICAL_IMG_NR="17" HEIGHT="1503" WIDTH="891">
+         <TopMargin HEIGHT="0" WIDTH="891" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="1503" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="1503" WIDTH="0" VPOS="0" HPOS="891"/>
+         <BottomMargin HEIGHT="0" WIDTH="891" VPOS="1503" HPOS="0"/>
+         <PrintSpace HEIGHT="1503" WIDTH="891" VPOS="0" HPOS="0">
+            <TextBlock ID="region_1737732606348_907"
+                       HEIGHT="36"
+                       WIDTH="74"
+                       VPOS="109"
+                       HPOS="147">
+               <Shape>
+                  <Polygon POINTS="153,145 221,144 218,110 147,109"/>
+               </Shape>
+            </TextBlock>
+            <TextBlock ID="region_1737732622026_910"
+                       HEIGHT="379"
+                       WIDTH="648"
+                       VPOS="161"
+                       HPOS="142">
+               <Shape>
+                  <Polygon POINTS="142,166 782,161 790,540 147,540"/>
+               </Shape>
+            </TextBlock>
+            <TextBlock ID="region_1737732638523_913"
+                       HEIGHT="762"
+                       WIDTH="662"
+                       VPOS="568"
+                       HPOS="147">
+               <Shape>
+                  <Polygon POINTS="198,572 783,568 809,1330 147,1329 149,620 192,615"/>
+               </Shape>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>
