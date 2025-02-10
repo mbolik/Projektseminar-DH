@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-06-25T12:35:39.553+02:00</Created>
+        <LastChange>2025-01-17T13:40:59.506+01:00</LastChange>
+        <TranskribusMetadata docId="2986983" pageId="73470899" pageNr="6" tsid="221764377" status="IN_PROGRESS" userId="241044" imgUrl="https://files.transkribus.eu/Get?id=HNMDLJLLDFRDZYNEGZUXOJDD&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JAVPEXZMKMNNWAZNUYNKYSJO" imageId="59330051"/>
+    </Metadata>
+    <Page imageFilename="1770,_Saemmtliche_Poetische_Werke,_Trattner,_VD18_12002895_Seite_378_Bild_0001.jpg" imageWidth="1093" imageHeight="1745" type="content">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1739204448837" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1719312796316_365"/>
+                <RegionRefIndexed index="1" regionRef="region_1719312804183_368"/>
+                <RegionRefIndexed index="2" regionRef="region_1719312811141_371"/>
+                <RegionRefIndexed index="3" regionRef="region_1719312840751_377"/>
+                <RegionRefIndexed index="4" regionRef="region_1719312862366_383"/>
+                <RegionRefIndexed index="5" regionRef="region_1719312868753_386"/>
+                <RegionRefIndexed index="6" regionRef="region_1719312872936_389"/>
+                <RegionRefIndexed index="7" regionRef="region_1719312879554_392"/>
+                <RegionRefIndexed index="8" regionRef="region_1719312885264_395"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <Relations>
+            <Relation type="link">
+                <RegionRef regionRef="region_1719312868753_386"/>
+                <RegionRef regionRef="region_1719312872936_389"/>
+            </Relation>
+        </Relations>
+        <TextRegion type="heading" id="region_1719312796316_365" custom="readingOrder {index:0;} structure {type:heading;}">
+            <Coords points="369,190 424,190 424,239 369,239"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="heading" id="region_1719312804183_368" custom="readingOrder {index:1;} structure {type:heading;}">
+            <Coords points="487,239 919,237 919,181 487,183"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1719312811141_371" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="372,254 1041,251 1041,544 363,544"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1719312840751_377" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="364,624 1049,618 1045,908 364,908"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="heading" id="region_1719312862366_383" custom="readingOrder {index:4;} structure {type:heading;}">
+            <Coords points="375,1016 1051,1015 1042,1127 375,1126"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1719312868753_386" custom="readingOrder {index:5;} structure {type:paragraph;}">
+            <Coords points="376,1161 428,1161 428,1227 370,1227"/>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1719312872936_389" custom="readingOrder {index:6;} structure {type:paragraph;}">
+            <Coords points="365,1230 430,1230 430,1186 1054,1185 1041,1308 365,1307"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="heading" id="region_1719312879554_392" custom="readingOrder {index:7;} structure {type:heading;}">
+            <Coords points="922,1338 1009,1337 1003,1385 922,1385"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="footnote" id="region_1719312885264_395" custom="readingOrder {index:8;} structure {type:footnote;}">
+            <Coords points="438,1419 1049,1419 1044,1526 438,1529"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

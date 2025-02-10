@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2025-01-24T16:35:56.262+01:00</Created>
+        <LastChange>2025-01-24T16:45:42.883+01:00</LastChange>
+        <TranskribusMetadata docId="2986983" pageId="89993006" pageNr="8" tsid="223499608" status="IN_PROGRESS" userId="241044" imgUrl="https://files.transkribus.eu/Get?id=PHAKUREXMWUPOYRYLHKDDLNC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PWZMPNLJPQEIJJRHGIJQSHLJ" imageId="75001735"/>
+    </Metadata>
+    <Page imageFilename="1770,_Saemmtliche_Poetische_Werke,_Trattner,_VD18_12002895_Seite_490_Bild_0001.jpg" imageWidth="1104" imageHeight="1763">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1739204449682" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1737733455120_1112"/>
+                <RegionRefIndexed index="1" regionRef="region_1737733467344_1115"/>
+                <RegionRefIndexed index="2" regionRef="region_1737733491293_1118"/>
+                <RegionRefIndexed index="3" regionRef="region_1737733500570_1121"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="heading" id="region_1737733455120_1112" custom="readingOrder {index:0;} structure {type:heading;}">
+            <Coords points="481,176 408,175 408,212 483,212"/>
+        </TextRegion>
+        <TextRegion type="heading" id="region_1737733467344_1115" custom="readingOrder {index:1;} structure {type:heading;}">
+            <Coords points="498,164 1066,159 1064,214 496,219"/>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1737733491293_1118" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="411,235 1026,237 1033,287 1087,366 1071,434 1019,428 1068,584 1001,588 980,638 1066,654 1074,693 406,694 397,424"/>
+        </TextRegion>
+        <TextRegion type="heading" id="region_1737733500570_1121" custom="readingOrder {index:3;} structure {type:heading;}">
+            <Coords points="935,1409 1018,1411 1010,1483 924,1473"/>
+        </TextRegion>
+    </Page>
+</PcGts>
