@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-06-28T09:07:43.695+02:00</Created>
+        <LastChange>2024-08-28T12:46:09.286+02:00</LastChange>
+        <TranskribusMetadata docId="3037105" pageId="74175890" pageNr="3" tsid="185067294" status="IN_PROGRESS" userId="238564" imgUrl="https://files.transkribus.eu/Get?id=VXKTNAHDYZBLYJJYMVAGWPOE&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JIOWMGIBJJJQRYQPHUAJWHHA" imageId="60019370"/>
+    </Metadata>
+    <Page imageFilename="1769,_Saemtliche_Poetische_Werke,_Bohn,_4._Aufl.,_Bd._1,_VD18_90481097_Seite_131_Bild_0001.jpg" imageWidth="1857" imageHeight="2881">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1729703215907" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1719562615946_275"/>
+                <RegionRefIndexed index="1" regionRef="region_1719562620306_278"/>
+                <RegionRefIndexed index="2" regionRef="region_1719562623838_281"/>
+                <RegionRefIndexed index="3" regionRef="region_1719562627801_284"/>
+                <RegionRefIndexed index="4" regionRef="region_1719562631718_287"/>
+                <RegionRefIndexed index="5" regionRef="region_1719562649061_299"/>
+                <RegionRefIndexed index="6" regionRef="region_1719562651586_302"/>
+                <RegionRefIndexed index="7" regionRef="region_1719562670134_305"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="header" id="region_1719562615946_275" custom="readingOrder {index:0;} structure {type:header;}">
+            <Coords points="903,654 461,654 461,560 972,547"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="heading" id="region_1719562620306_278" custom="readingOrder {index:1;} structure {type:heading;}">
+            <Coords points="1216,648 1121,648 1121,569 1236,567"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="heading" id="region_1719562623838_281" custom="readingOrder {index:2;} structure {type:heading;}">
+            <Coords points="902,748 482,748 476,672 937,672"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1719562627801_284" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="280,882 171,882 156,756 280,764"/>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1719562631718_287" custom="readingOrder {index:4;} structure {type:paragraph;}">
+            <Coords points="1160,2159 178,2159 163,963 164,883 283,885 286,769 1143,763"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="heading" id="region_1719562649061_299" custom="readingOrder {index:5;} structure {type:heading;}">
+            <Coords points="837,2236 669,2233 669,2169 797,2169"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="heading" id="region_1719562651586_302" custom="readingOrder {index:6;} structure {type:heading;}">
+            <Coords points="1229,2231 1102,2231 1102,2171 1254,2166"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1719562670134_305" custom="readingOrder {index:7;} structure {type:paragraph;}">
+            <Coords points="1206,2416 185,2435 185,2257 1240,2262"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

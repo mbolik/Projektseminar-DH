@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-06-13T13:54:25.972+02:00</Created>
+        <LastChange>2024-08-28T12:43:31.814+02:00</LastChange>
+        <TranskribusMetadata docId="3124546" pageId="74494091" pageNr="2" tsid="185066598" status="IN_PROGRESS" userId="238564" imgUrl="https://files.transkribus.eu/Get?id=BSIIIGUSXOKHDRELGNJAATCS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DYKERFMTLQJLBIEGNPPCYNQJ" imageId="60317234"/>
+    </Metadata>
+    <Page imageFilename="1757, Poetische Werke, Bohn, Bd. 1, VD18 9033213X_NEU-0016.jpeg" imageWidth="1505" imageHeight="2338">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1729779620037" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1718283764334_197"/>
+                <RegionRefIndexed index="1" regionRef="region_1718283757310_194"/>
+                <RegionRefIndexed index="2" regionRef="region_1718283781730_200"/>
+                <RegionRefIndexed index="3" regionRef="region_1718283796002_203"/>
+                <RegionRefIndexed index="4" regionRef="region_1718283949525_229"/>
+                <RegionRefIndexed index="5" regionRef="region_1718283955641_232"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="heading" id="region_1718283764334_197" custom="readingOrder {index:0;} structure {type:heading;}">
+            <Coords points="418,349 353,349 353,299 460,272"/>
+        </TextRegion>
+        <TextRegion type="header" id="region_1718283757310_194" custom="readingOrder {index:1;} structure {type:header;}">
+            <Coords points="975,345 694,345 694,284 991,283"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1718283781730_200" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="1357,1591 349,1599 347,388 1343,388"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="heading" id="region_1718283796002_203" custom="readingOrder {index:3;} structure {type:heading;}">
+            <Coords points="1350,1718 1196,1697 1198,1621 1330,1621"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="footnote" id="region_1718283949525_229" custom="readingOrder {index:4;} structure {type:footnote;}">
+            <Coords points="1336,2040 357,2040 344,1755 1337,1763"/>
+        </TextRegion>
+        <TextRegion type="heading" id="region_1718283955641_232" custom="readingOrder {index:5;} structure {type:heading;}">
+            <Coords points="1335,2081 1215,2094 1223,2043 1335,2043"/>
+        </TextRegion>
+    </Page>
+</PcGts>

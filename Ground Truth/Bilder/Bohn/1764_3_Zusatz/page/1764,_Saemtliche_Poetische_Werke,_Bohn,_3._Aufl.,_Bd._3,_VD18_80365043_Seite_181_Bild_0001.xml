@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-07-07T11:51:50.737+02:00</Created>
+        <LastChange>2024-08-28T12:36:51.482+02:00</LastChange>
+        <TranskribusMetadata docId="3175585" pageId="74642853" pageNr="2" tsid="185065484" status="IN_PROGRESS" userId="238564" imgUrl="https://files.transkribus.eu/Get?id=SBRBIZMUXOXRCOQNGRHJNOER&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XYKSKSSXSSXPODNPXJOPWLUH" imageId="60452355"/>
+    </Metadata>
+    <Page imageFilename="1764,_Saemtliche_Poetische_Werke,_Bohn,_3._Aufl.,_Bd._3,_VD18_80365043_Seite_181_Bild_0001.jpg" imageWidth="949" imageHeight="1500">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1729703141589" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1720346214158_333"/>
+                <RegionRefIndexed index="1" regionRef="region_1720346216518_336"/>
+                <RegionRefIndexed index="2" regionRef="region_1720346223262_339"/>
+                <RegionRefIndexed index="3" regionRef="region_1720346227613_342"/>
+                <RegionRefIndexed index="4" regionRef="region_1720346231834_345"/>
+                <RegionRefIndexed index="5" regionRef="region_1720346241985_351"/>
+                <RegionRefIndexed index="6" regionRef="region_1721040269957_75"/>
+                <RegionRefIndexed index="7" regionRef="region_1721040274733_78"/>
+                <RegionRefIndexed index="8" regionRef="region_1720346246569_354"/>
+                <RegionRefIndexed index="9" regionRef="region_1721040302801_89"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="header" id="region_1720346214158_333" custom="readingOrder {index:0;} structure {type:header;}">
+            <Coords points="602,174 334,174 334,130 595,127"/>
+        </TextRegion>
+        <TextRegion type="heading" id="region_1720346216518_336" custom="readingOrder {index:1;} structure {type:heading;}">
+            <Coords points="784,169 700,174 700,133 780,133"/>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1720346223262_339" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="791,1172 72,1188 72,188 787,188"/>
+        </TextRegion>
+        <TextRegion type="heading" id="region_1720346227613_342" custom="readingOrder {index:3;} structure {type:heading;}">
+            <Coords points="533,1219 452,1219 454,1188 533,1187"/>
+        </TextRegion>
+        <TextRegion type="heading" id="region_1720346231834_345" custom="readingOrder {index:4;} structure {type:heading;}">
+            <Coords points="776,1223 653,1223 652,1180 775,1180"/>
+        </TextRegion>
+        <TextRegion type="footnote" id="region_1720346241985_351" custom="readingOrder {index:5;} structure {type:footnote;}">
+            <Coords points="392,1266 128,1270 133,1241 372,1237"/>
+        </TextRegion>
+        <TextRegion type="footnote" id="region_1721040269957_75" custom="readingOrder {index:6;} structure {type:footnote;}">
+            <Coords points="341,1287 140,1292 141,1276 343,1271"/>
+        </TextRegion>
+        <TextRegion type="footnote" id="region_1721040274733_78" custom="readingOrder {index:7;} structure {type:footnote;}">
+            <Coords points="442,1341 123,1341 123,1293 447,1288"/>
+        </TextRegion>
+        <TextRegion type="footnote" id="region_1720346246569_354" custom="readingOrder {index:8;} structure {type:footnote;}">
+            <Coords points="771,1278 452,1282 455,1238 774,1234"/>
+        </TextRegion>
+        <TextRegion type="footnote" id="region_1721040302801_89" custom="readingOrder {index:9;} structure {type:footnote;}">
+            <Coords points="699,1312 478,1312 478,1286 699,1285"/>
+        </TextRegion>
+    </Page>
+</PcGts>

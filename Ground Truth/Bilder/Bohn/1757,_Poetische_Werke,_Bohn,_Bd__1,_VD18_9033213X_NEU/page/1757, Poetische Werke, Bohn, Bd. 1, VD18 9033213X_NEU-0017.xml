@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-06-13T13:54:25.997+02:00</Created>
+        <LastChange>2024-08-28T12:44:06.025+02:00</LastChange>
+        <TranskribusMetadata docId="3124546" pageId="74493527" pageNr="3" tsid="185066752" status="IN_PROGRESS" userId="238564" imgUrl="https://files.transkribus.eu/Get?id=TMVWSPRQLFZNZDCQYTLLAAJS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PRZVUKBZPDQMCRXQVYXFKGWA" imageId="60317867"/>
+    </Metadata>
+    <Page imageFilename="1757, Poetische Werke, Bohn, Bd. 1, VD18 9033213X_NEU-0017.jpeg" imageWidth="1505" imageHeight="2338">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1729779620226" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1718284128900_249"/>
+                <RegionRefIndexed index="1" regionRef="region_1718284131876_252"/>
+                <RegionRefIndexed index="2" regionRef="region_1718284207532_262"/>
+                <RegionRefIndexed index="3" regionRef="region_1718284250975_267"/>
+                <RegionRefIndexed index="4" regionRef="region_1718284261896_270"/>
+                <RegionRefIndexed index="5" regionRef="region_1718284317427_276"/>
+                <RegionRefIndexed index="6" regionRef="region_1718284320989_279"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="header" id="region_1718284128900_249" custom="readingOrder {index:0;} structure {type:header;}">
+            <Coords points="798,354 523,354 523,278 818,276"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="heading" id="region_1718284131876_252" custom="readingOrder {index:1;} structure {type:heading;}">
+            <Coords points="1161,354 1048,360 1048,288 1161,282"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1718284207532_262" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="1165,1541 1181,1611 1018,1606 1000,1668 164,1676 164,389 1171,389"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="heading" id="region_1718284250975_267" custom="readingOrder {index:3;} structure {type:heading;}">
+            <Coords points="1155,1692 1039,1692 1039,1619 1182,1620"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="footnote" id="region_1718284261896_270" custom="readingOrder {index:4;} structure {type:footnote;}">
+            <Coords points="1207,1868 176,1868 176,1731 1207,1731"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1718284317427_276" custom="readingOrder {index:5;} structure {type:paragraph;}">
+            <Coords points="1168,2043 192,2041 211,1889 1168,1889"/>
+        </TextRegion>
+        <TextRegion type="heading" id="region_1718284320989_279" custom="readingOrder {index:6;} structure {type:heading;}">
+            <Coords points="1174,2086 1024,2086 1024,2043 1184,2051"/>
+        </TextRegion>
+    </Page>
+</PcGts>

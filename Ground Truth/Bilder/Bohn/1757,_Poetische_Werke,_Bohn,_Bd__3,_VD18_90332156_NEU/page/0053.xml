@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-06-13T16:42:41.765+02:00</Created>
+        <LastChange>2024-08-28T12:39:32.912+02:00</LastChange>
+        <TranskribusMetadata docId="3124803" pageId="74494409" pageNr="2" tsid="185065883" status="IN_PROGRESS" userId="238564" imgUrl="https://files.transkribus.eu/Get?id=EDRQQZLNFBTOOVMKRTDKETGL&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DDIZTGATWBNHJCKZTQQFBVRF" imageId="60317869"/>
+    </Metadata>
+    <Page imageFilename="0053.jpg" imageWidth="810" imageHeight="1179">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1729703181018" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1718373694616_276"/>
+                <RegionRefIndexed index="1" regionRef="region_1718373698082_279"/>
+                <RegionRefIndexed index="2" regionRef="region_1718373703862_282"/>
+                <RegionRefIndexed index="3" regionRef="region_1718373714226_288"/>
+                <RegionRefIndexed index="4" regionRef="region_1718373710562_285"/>
+                <RegionRefIndexed index="5" regionRef="region_1718373725782_294"/>
+                <RegionRefIndexed index="6" regionRef="region_1718373743981_300"/>
+                <RegionRefIndexed index="7" regionRef="region_1718373741001_297"/>
+                <RegionRefIndexed index="8" regionRef="region_1718373751445_306"/>
+                <RegionRefIndexed index="9" regionRef="region_1718373754161_309"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="header" id="region_1718373694616_276" custom="readingOrder {index:0;} structure {type:header;}">
+            <Coords points="374,161 218,161 218,112 366,116"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="heading" id="region_1718373698082_279" custom="readingOrder {index:1;} structure {type:heading;}">
+            <Coords points="569,152 493,159 493,108 563,108"/>
+        </TextRegion>
+        <TextRegion type="heading" id="region_1718373703862_282" custom="readingOrder {index:2;} structure {type:heading;}">
+            <Coords points="579,291 40,298 40,173 569,173"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1718373714226_288" custom="readingOrder {index:3;} structure {type:paragraph;}">
+            <Coords points="114,370 52,367 52,304 116,309"/>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1718373710562_285" custom="readingOrder {index:4;} structure {type:paragraph;}">
+            <Coords points="613,681 397,731 54,725 53,370 116,373 116,318 116,313 585,301"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="heading" id="region_1718373725782_294" custom="readingOrder {index:5;} structure {type:heading;}">
+            <Coords points="577,758 493,753 493,723 556,723"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1718373743981_300" custom="readingOrder {index:6;} structure {type:paragraph;}">
+            <Coords points="147,827 110,825 110,788 147,787"/>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1718373741001_297" custom="readingOrder {index:7;} structure {type:paragraph;}">
+            <Coords points="467,1009 117,1009 109,820 145,827 147,789 463,787"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="heading" id="region_1718373751445_306" custom="readingOrder {index:8;} structure {type:heading;}">
+            <Coords points="355,1044 285,1044 285,1011 358,1022"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="heading" id="region_1718373754161_309" custom="readingOrder {index:9;} structure {type:heading;}">
+            <Coords points="569,1042 482,1032 482,1010 570,1010"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

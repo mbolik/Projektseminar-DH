@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>Transkribus</Creator>
+        <Created>2024-07-07T11:38:00.518+02:00</Created>
+        <LastChange>2024-08-28T12:37:04.502+02:00</LastChange>
+        <TranskribusMetadata docId="3175528" pageId="74642332" pageNr="1" tsid="185065201" status="IN_PROGRESS" userId="238564" imgUrl="https://files.transkribus.eu/Get?id=ZXBGWFGKZVZAFJTVFFICTOSB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=YMXXAJQLPKWFUZBXZDGMERMD" imageId="60451628"/>
+    </Metadata>
+    <Page imageFilename="1757,_Saemtliche_Poetische_Werke,_Bohn,_1._Aufl.,_Bd._2,_VD18_90396731_Seite_171_Bild_0001.jpg" imageWidth="1153" imageHeight="1919">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1729703147208" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1720345099553_3"/>
+                <RegionRefIndexed index="1" regionRef="region_1720345104228_6"/>
+                <RegionRefIndexed index="2" regionRef="region_1720345109236_9"/>
+                <RegionRefIndexed index="4" regionRef="region_1720345112972_12"/>
+                <RegionRefIndexed index="5" regionRef="region_1720345117380_15"/>
+                <RegionRefIndexed index="6" regionRef="region_1720345123496_18"/>
+                <RegionRefIndexed index="7" regionRef="region_1720345134536_21"/>
+                <RegionRefIndexed index="8" regionRef="region_1720345141152_24"/>
+                <RegionRefIndexed index="9" regionRef="region_1721040649665_146"/>
+                <RegionRefIndexed index="10" regionRef="region_1721040652773_149"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="heading" id="region_1720345099553_3" custom="readingOrder {index:0;} structure {type:heading;}">
+            <Coords points="227,51 123,66 123,6 223,6"/>
+        </TextRegion>
+        <TextRegion type="header" id="region_1720345104228_6" custom="readingOrder {index:1;} structure {type:header;}">
+            <Coords points="906,64 386,65 386,-3 893,-3"/>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1720345109236_9" custom="readingOrder {index:2;} structure {type:paragraph;}">
+            <Coords points="957,269 121,273 121,82 941,82"/>
+        </TextRegion>
+        <GraphicRegion id="Graphic_1720345176377_36" custom="readingOrder {index:3;}">
+            <Coords points="1096,331 127,331 127,288 1096,288"/>
+        </GraphicRegion>
+        <TextRegion type="heading" id="region_1720345112972_12" custom="readingOrder {index:4;} structure {type:heading;}">
+            <Coords points="794,420 458,420 458,345 814,344"/>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1720345117380_15" custom="readingOrder {index:5;} structure {type:paragraph;}">
+            <Coords points="238,516 136,516 124,420 238,427"/>
+        </TextRegion>
+        <TextRegion type="paragraph" id="region_1720345123496_18" custom="readingOrder {index:6;} structure {type:paragraph;}">
+            <Coords points="1096,1364 111,1375 129,625 129,522 242,521 241,423 1075,432"/>
+        </TextRegion>
+        <TextRegion type="heading" id="region_1720345134536_21" custom="readingOrder {index:7;} structure {type:heading;}">
+            <Coords points="1104,1412 990,1413 990,1374 1087,1374"/>
+        </TextRegion>
+        <TextRegion type="footnote" id="region_1720345141152_24" custom="readingOrder {index:8;} structure {type:footnote;}">
+            <Coords points="1097,1594 117,1594 111,1418 1091,1418"/>
+        </TextRegion>
+        <TextRegion type="footnote" id="region_1721040649665_146" custom="readingOrder {index:9;} structure {type:footnote;}">
+            <Coords points="1089,1669 107,1669 107,1600 1089,1600"/>
+        </TextRegion>
+        <TextRegion type="footnote" id="region_1721040652773_149" custom="readingOrder {index:10;} structure {type:footnote;}">
+            <Coords points="1095,1847 90,1847 90,1669 1095,1669"/>
+        </TextRegion>
+    </Page>
+</PcGts>
