@@ -43,3 +43,22 @@
 - **Verwendung:**  
   - Dient als Grundlage für Experimente, bei denen ein ausgeglichenes Verhältnis zwischen den Verlegern gewährleistet sein soll.
   - Ermöglicht Training sowohl auf Zeilen- als auch auf Flächenebene.
+ 
+## 📁 Modelle
+- **Beschreibung:**  
+  Enthält die trainierten Modelle basierend auf den annotierten Korpora.
+
+- **Inhalt:**  
+  - `hagedorn-gesamt-mit-zeilen.mlmodel`  
+    → Modell, trainiert mit Zeilenannotation.
+  - `hagedorn-gesamt-ohne-zeilen-ubma.mlmodel`  
+    → Modell, trainiert ohne Zeilenannotation (mit UBMA-Optimierung).
+  - `hagedorn-gesamt-ohne-zeilen.mlmodel`  
+    → Modell, trainiert ohne Zeilenannotation (Standard).
+  - `mehrspaltig_ubma.mlmodel`  
+    → Modell für mehrspaltige Layouts, UBMA-optimiert.
+
+- **Verwendung:**  
+  Modelle können direkt für Vorhersagen oder Feinevaluationen genutzt werden.
+
+
