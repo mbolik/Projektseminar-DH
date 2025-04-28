@@ -3,14 +3,9 @@
 Dieses Repository enthält folgende Hauptordner:
 
 ## 📁 Ground Truth
-- Beschreibung: Enthält die Gesamt-Korpora und die unannotierten Bilder, nach verlegern sortiert.
+- Beschreibung: Enthält die manuell überprüften Wahrheitsdaten (Ground Truth).
 - Unterordner:
-  - [Bilder](./Ground%20Truth/Bilder/)
-     - [Bohn Jr.](./Ground%20Truth/Bilder/Bohn%20Jr.)
-     - [Bohn](./Ground%20Truth/Bilder/Bohn.)
-     - [Fleischhauer](./Ground%20Truth/Bilder/Fleischhauer.)
-     - [Schmieder](./Ground%20Truth/Bilder/Schmieder.)
-     - [Schrämbl](./Ground%20Truth/Bilder/Schrämbl.)
+  - [Bilder](Ground Truth/Bilder).
   - [BeispielUnterordner2](./Ground%20Truth/BeispielUnterordner2/)
 
 ## 📁 Korpus (balanciert)
@@ -31,6 +26,4 @@ Dieses Repository enthält folgende Hauptordner:
 ## 📁 Trainingskorpus
 - Beschreibung: Datensätze, die für das Training der Modelle verwendet wurden.
 - Hinweis: Struktur noch in Bearbeitung.
-
----
 
