@@ -1,32 +1,36 @@
-## Versionsnummerierung: 
+# Projektübersicht
 
-### Iteration 1: Regionen 
+Dieses Repository enthält folgende Hauptordner:
 
-* __1.0__: "Original":Nach Handout/OCR-D also mit "rekursiven" FN
+## 📁 Ground Truth
+- Beschreibung: Enthält die Gesamt-Korpora und die unannotierten Bilder, nach verlegern sortiert.
+- Unterordner:
+  - [Bilder](./Ground%20Truth/Bilder/)
+     - [Bohn Jr.](./Ground%20Truth/Bilder/Bohn%20Jr.)
+     - [Bohn](./Ground%20Truth/Bilder/Bohn.)
+     - [Fleischhauer](./Ground%20Truth/Bilder/Fleischhauer.)
+     - [Schmieder](./Ground%20Truth/Bilder/Schmieder.)
+     - [Schrämbl](./Ground%20Truth/Bilder/Schrämbl.)
+  - [BeispielUnterordner2](./Ground%20Truth/BeispielUnterordner2/)
 
-* __1.1__: "Zwischenstufe Präsentation": Ohne überlappende FN (auf github)
+## 📁 Korpus (balanciert)
+- Beschreibung: Korpusdaten, die nach bestimmten Kriterien balanciert wurden.
+- Unterordner:
+  - [BeispielUnterordnerA](./Korpus%20(balanciert)/BeispielUnterordnerA/)
 
-* __1.2__: für Escriptorium, wie gestern besprochen, keine überlappungen, stark reduzierte Regionen, keine Vierecke etc. 
+## 📁 Modelle
+- Beschreibung: Enthält trainierte Modelle und zugehörige Konfigurationsdateien.
+- Unterordner:
+  - [Modell1](./Modelle/Modell1/)
 
-### Iteration 2: Regionen + Zeilen (momentan hintenan geschoben)
+## 📁 Testkorpora
+- Beschreibung: Testdatensätze für Evaluierungszwecke.
+- Unterordner:
+  - [TestSet1](./Testkorpora/TestSet1/)
 
-* __2.0__: basierend auf 1.0
+## 📁 Trainingskorpus
+- Beschreibung: Datensätze, die für das Training der Modelle verwendet wurden.
+- Hinweis: Struktur noch in Bearbeitung.
 
-* 2.1: basierend auf 1.1. (Brauchen wir glaub gar nicht)
-
-* __2.2__: basierend auf 1.2 
-  * (sollten wir varianten haben, dann 1.2.1 benennen etc.)
-
-### Iteration 3:Regionen + Zeilen + Text (ferne Zukunft) 
-
-
-
-## __Ordnerinhalt:__ _evtl anpassen_
-* _Modelle_: Runtergeladene und trainierte Modelle
-
-* _OhneAnnotationen_: "Leere" Seiten zum Testen, nur Bilder
-
-* _Iteration1_: Dateien aus Transkribus runtergeladen, folgen weitestgehend Annotationsrichtlinien wie besprochen. Version (s.o.) __1.0__
-
-* _OhneUeberschneidungen_: Stand 16.07. "Überlappende" FN-Regionen rausgenommen/darin enthaltene paragraphs etc als FN etc ausgezeichnet. Version (s.o.) __1.1__
+---
 
