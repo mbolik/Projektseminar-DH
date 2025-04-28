@@ -27,6 +27,9 @@ Alle Daten sind intern und unterliegen [Zugriffsregeln/Lizenzen, falls relevant]
       - Schmieder
       - Fleischhauer
       - Schrämbl
+      - Baumeister
+      - Trattner
+      - Walthard
   - **PAGE/**
     - Enthält Annotationen im PAGE-Format (.zip-Dateien), ebenfalls nach den fünf Verlegern sortiert:
       - Bohn
@@ -34,6 +37,9 @@ Alle Daten sind intern und unterliegen [Zugriffsregeln/Lizenzen, falls relevant]
       - Schmieder
       - Fleischhauer
       - Schrämbl
+      - Baumeister
+      - Trattner
+      - Walthard
 
 - **Verwendung:**  
   - "Bilder" dient als Grundlage für das Training und Testing der Modelle.
@@ -56,6 +62,7 @@ Alle Daten sind intern und unterliegen [Zugriffsregeln/Lizenzen, falls relevant]
     - Schrämpl
     - Trattner
     - Baumeister
+    - > sowie die dazugehörigen Bilder
 
 - **Verwendung:**  
   - Dient als Grundlage für Experimente, bei denen ein ausgeglichenes Verhältnis zwischen den Verlegern gewährleistet sein soll.
@@ -83,10 +90,9 @@ Alle Daten sind intern und unterliegen [Zugriffsregeln/Lizenzen, falls relevant]
   Enthält Testdatensätze sowie die automatisch erzeugten Annotationen durch die trainierten Modelle.
 
 - **Struktur:**
-  - **Bilder (unannotierter Testkorpus):**
-    - `Testkorpus 43`
-    - `Testkorpus 92_1`
-    - `Testkorpus 92_2`
+  - **Bilder (unannotierter Testkorpus) verzippt:**
+    - `Testkorpus 1`
+    - `Testkorpus 2`
     - → Enthalten jeweils Bilddateien ohne Annotationen.
   
   - **Modelle (automatische Annotationen):**
