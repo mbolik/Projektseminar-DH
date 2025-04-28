@@ -93,6 +93,7 @@ Alle Daten sind intern und unterliegen [Zugriffsregeln/Lizenzen, falls relevant]
   - **Bilder (unannotierter Testkorpus) verzippt:**
     - `Testkorpus 1`
     - `Testkorpus 2`
+    - `Mehrspaltig Test Bilder`
     - → Enthalten jeweils Bilddateien ohne Annotationen.
   
   - **Modelle (automatische Annotationen):**
@@ -100,7 +101,8 @@ Alle Daten sind intern und unterliegen [Zugriffsregeln/Lizenzen, falls relevant]
     - `hagedorn-gesamt-ohne-zeilen-ubma`
     - `hagedorn-gesamt-ohne-zeilen`
     - `mehrspaltig_ubma`
-    - → In jedem Modell-Ordner befinden sich `.zip`-Dateien mit automatisch erzeugten Annotationsdaten.
+    - → In jedem Modell-Ordner befinden sich `.zip`-Dateien mit automatisch erzeugten Annotationsdaten.Die Gesamtmodelle wurden wechselweise mit den Korpora 1 und 2 getestet, die letzte Zahl in Namen weißt auf das Testkorpus.
+    - Das Sepzialkorpus wurde mit einem eigenen Testkorpus getestet.
 
 - **Verwendung:**  
   Die unannotierten Testkorpora dienen der Evaluierung der Modellleistung.  
