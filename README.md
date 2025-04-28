@@ -111,12 +111,11 @@ Alle Daten sind intern und unterliegen [Zugriffsregeln/Lizenzen, falls relevant]
   Enthält die Korpora, die für das Training der verschiedenen Modelle verwendet wurden.
 
 - **Struktur:**
-  - Die Unterordner sind nach den jeweiligen Modellen benannt:
     - `hagedorn-gesamt-mit-zeilen`
     - `hagedorn-gesamt-ohne-zeilen-ubma`
     - `hagedorn-gesamt-ohne-zeilen`
-    - `mehrspaltig_ubma`
-  - Jeder Ordner enthält die spezifischen Trainingsdaten (Bilder und/oder Annotationen), auf denen das jeweilige Modell basiert.
+    -  Unterordner: `mehrspaltig_ubma`-> beinhaltet sowohl Bilde rals auch Annotationen des Spezialtrainings.
+  - Enthält die spezifischen Trainingsdaten (Bilder und/oder Annotationen), auf denen das jeweilige Modell basiert. Die Gesamt-Modelle, beinhalten jeweils die kompletten Korpora aus dem Ground Truth.
 
 - **Verwendung:**  
   Diese Datensätze dienen der Reproduzierbarkeit und ermöglichen das Nachtraining oder die Weiterentwicklung der Modelle.
