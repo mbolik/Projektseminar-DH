@@ -5,7 +5,7 @@ Dieses Repository enthält folgende Hauptordner:
 ## 📁 Ground Truth
 - Beschreibung: Enthält die manuell überprüften Wahrheitsdaten (Ground Truth).
 - Unterordner:
-  - [Bilder](Ground Truth/Bilder).
+  - [Bilder](Ground#20Truth/Bilder).
   - [BeispielUnterordner2](./Ground%20Truth/BeispielUnterordner2/)
 
 ## 📁 Korpus (balanciert)
