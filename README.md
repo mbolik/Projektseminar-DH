@@ -1,3 +1,20 @@
+
+# Projekt README
+
+**Stand:** April 2025  
+**Projektbeschreibung:**  
+Dieses Repository enthält alle wesentlichen Datensätze, Trainingsdaten, Modelle und Testkorpora für das [Projektname]-Projekt.  
+Alle Daten sind intern und unterliegen [Zugriffsregeln/Lizenzen, falls relevant].
+
+---
+
+## Inhaltsverzeichnis
+- [Ground Truth](#ground-truth)
+- [Korpus (balanciert)](#korpus-balanciert)
+- [Modelle](#modelle)
+- [Testkorpora](#testkorpora)
+- [Trainingskorpus](#trainingskorpus)
+
 ## 📁 Ground Truth
 - **Beschreibung:**  
   Enthält die Gesamtheit aller annotierten Daten des Projekts.
