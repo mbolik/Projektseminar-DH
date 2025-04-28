@@ -3,7 +3,7 @@
 
 **Stand:** April 2025  
 **Projektbeschreibung:**  
-Dieses Repository enthält alle wesentlichen Datensätze, Trainingsdaten, Modelle und Testkorpora für das [Projektname]-Projekt.  
+Dieses Repository enthält alle wesentlichen Datensätze, Trainingsdaten, Modelle und Testkorpora für das [Document Layout Analysis für historische Drucke des 18. Jh.s]-Projekt.  
 Alle Daten sind intern und unterliegen [Zugriffsregeln/Lizenzen, falls relevant].
 
 ---
