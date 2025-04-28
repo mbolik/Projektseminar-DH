@@ -61,4 +61,26 @@
 - **Verwendung:**  
   Modelle können direkt für Vorhersagen oder Feinevaluationen genutzt werden.
 
+## 📁 Testkorpus
+- **Beschreibung:**  
+  Enthält Testdatensätze sowie die automatisch erzeugten Annotationen durch die trainierten Modelle.
+
+- **Struktur:**
+  - **Bilder (unannotierter Testkorpus):**
+    - `Testkorpus 43`
+    - `Testkorpus 92_1`
+    - `Testkorpus 92_2`
+    - → Enthalten jeweils Bilddateien ohne Annotationen.
+  
+  - **Modelle (automatische Annotationen):**
+    - `hagedorn-gesamt-mit-zeilen`
+    - `hagedorn-gesamt-ohne-zeilen-ubma`
+    - `hagedorn-gesamt-ohne-zeilen`
+    - `mehrspaltig_ubma`
+    - → In jedem Modell-Ordner befinden sich `.zip`-Dateien mit automatisch erzeugten Annotationsdaten.
+
+- **Verwendung:**  
+  Die unannotierten Testkorpora dienen der Evaluierung der Modellleistung.  
+  Die automatisch erstellten Annotationen ermöglichen eine einfache Weiterverarbeitung und Analyse der Modellergebnisse.
+
 
