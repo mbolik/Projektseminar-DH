@@ -61,7 +61,7 @@
 - **Verwendung:**  
   Modelle können direkt für Vorhersagen oder Feinevaluationen genutzt werden.
 
-## 📁 Testkorpus
+## 📁 Testkorpora
 - **Beschreibung:**  
   Enthält Testdatensätze sowie die automatisch erzeugten Annotationen durch die trainierten Modelle.
 
@@ -82,5 +82,22 @@
 - **Verwendung:**  
   Die unannotierten Testkorpora dienen der Evaluierung der Modellleistung.  
   Die automatisch erstellten Annotationen ermöglichen eine einfache Weiterverarbeitung und Analyse der Modellergebnisse.
+
+## 📁 Trainingskorpus
+- **Beschreibung:**  
+  Enthält die Korpora, die für das Training der verschiedenen Modelle verwendet wurden.
+
+- **Struktur:**
+  - Die Unterordner sind nach den jeweiligen Modellen benannt:
+    - `hagedorn-gesamt-mit-zeilen`
+    - `hagedorn-gesamt-ohne-zeilen-ubma`
+    - `hagedorn-gesamt-ohne-zeilen`
+    - `mehrspaltig_ubma`
+  - Jeder Ordner enthält die spezifischen Trainingsdaten (Bilder und/oder Annotationen), auf denen das jeweilige Modell basiert.
+
+- **Verwendung:**  
+  Diese Datensätze dienen der Reproduzierbarkeit und ermöglichen das Nachtraining oder die Weiterentwicklung der Modelle.
+
+
 
 
